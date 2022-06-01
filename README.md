@@ -19,7 +19,7 @@
 
 ---
 
-## Schwachstellen
+## Schwächen
 
 ### ISMS 
 1. Fehlende oder unklare Anforderungen an InfoSec
@@ -93,11 +93,114 @@ flowchart LR
 ---
 
 ## ISMS Scope festlegen
+- Geographischer Scope
+- Produktionsstandorte
+- Organisationen
+- Rollen
+- Verfahren
+- Prozesse
 
+---
 
+## GAP Analyse
 
+Zeigt folgende Aspekte
 
+- Status der implementierten Maßnahmen
+- Verbesserungsbedarf
+- Fehlende Implementierungen
 
+Soll folgende Aspekte liefern:
+
+- Aktueller Status
+- benötigte Maßnahmen
+- Benötigte Mittel: Zeit + Geld
+
+---
+
+## Informations Sicherheits Policies (ISO 27001, 5.2, A.5) :hammer:
+
+### 5.2 Policy
+Das Management soll eine Informationssicherheitsrichtlinie einführen, die:
+
+<ol type="a">
+  <li>dem Zweck der organisation angemessen ist</li>
+  <li>IT Sec. Ziele beinhaltet oder ein Framework hierfür bereitstellt</li>
+  <li>Verpflichtungen zur Einhaltung der geforderten Ziele beinhaltet</li>
+  <li>Verpflichtungen zur kontinuierlichen Verbesserung des ISMS beinhaltet</li>
+</ol>
+
+Die Richtlinie sollte:
+<ol type="a" start="5">
+  <li>als Dokumentation vorhanden sein</li>
+  <li>mit der Organisation kommuniziert sein</li>
+  <li>interessierten Betroffenen zugänglich gemacht werden</li>
+</ol>
+
+---
+
+## Informations Sicherheits Policies (BSI 200-1, 7.1) :hammer:
+
+Formulierung sicherheitsrelevanter Ziele und einer Sicherheitsrichtlinie.
+
+Die IT Sicherheitsziele sollten bei jedem Sicherheitsprozess festgelegt werden.
+
+Folgende Aspekte sollten bei der Entwicklung der Sicherehits Strategie berücksichtigt werden:
+
+- Ziele der Unternehmung oder Rolle der Behörde
+- Rechtliche Anforderungen und Regulairen wie z.B. Datenschutz
+- Kunden Anforderungen und existierende Verträge
+- Interne Rahmenbedingungen
+- IT gestützte Business Prozesse und Aufgaben
+- Globale Bedrohungen und Gefahren durch Sicherheitsrisiken
+
+---
+
+## ISMS schematischer Aufbau
+
+![ISMS Pyramide](img/isms-pyramid.png)
+
+- Level 1-3 definieren Anforderungen
+  - Policies
+  - Prozeduren
+  - Arbeitsanweisungen
+- Level 4 enthält verschriftlichte Dokumente
+  - Meeting Minutes
+  - Dokumentationen (Trainings Nachweise)
+  - Pentest Reports
+  - Log Dateien
+
+---
+
+## Zielsetzung, ISO27001, 6.2 :hammer:
+
+Die Organisation sollte IT Recht für ISOs Zielsetzungen an relevanter Funktion und Position einbringen.
+
+Zielsetzungen sollen:
+
+<ol type="a">
+  <li>Konsistente zu Richtlinien sein</li>
+  <li>Messbar sein</li>
+  <li>Berücksichtigung der Anforderungen des geltenden IT-Rechts für ISOs und
+die Ergebnisse der Risikobewertung und Risikobehandlung</li>
+<li>Kommuniziert werden</li>
+<li>Bei Bedarf angepasst werden</li>
+</ol>
+
+Grundsatz :arrow_right: Bei Bedarf sollten die High-Level Ziele zu spezifischeren Zielsetzungen heruntergebrochen werden.
+
+---
+
+## CIA Triade
+![cia triade](img/CIA-triad.png)
+
+Wichtigste IT Schutzziele:
+
+- Vertraulichkeit: Daten sollten vertaulich verarbeitet werden und nur von autorisierten Nutzern eingesehen werden können. :arrow_right: Kompromitierungsbeispiel: Laptop geklaut, Passwort Diebstahl
+- Integrität: Daten sollen korrekt und vollständig sein. Änderungen müssen nachvollzogen werden können. :arrow_right:  Kompromitierungsbeispiel: Ransomware → Die Daten werden verändert
+- Verfügbarkeit: Informationstechnische Systeme müssen durchgängige Verfügbarkeit der Daten gewährleisten. Festlegung des Rahmens durch Unternehmen in Service-Level-Agreement. :arrow_right: DDoS Angriff
+
+Folie 88
 # 2 Aktuelle Standards in der Informations Sicherheit
 
 # 3 Asset Management, Risk Management
