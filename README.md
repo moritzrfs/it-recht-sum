@@ -1,12 +1,37 @@
 # IT-Recht Semester 4
 
 # Inhaltsverzeichnis
+- [IT-Recht Semester 4](#it-recht-semester-4)
+- [Inhaltsverzeichnis](#inhaltsverzeichnis)
+- [1 ISO Voraussetzungn, Policies, Organisation, Governance Model](#1-iso-voraussetzungn-policies-organisation-governance-model)
+  - [Klassifizierung von Sicherheitsrisiken](#klassifizierung-von-sicherheitsrisiken)
+  - [Schwächen](#schwächen)
+    - [ISMS](#isms)
+    - [Cyber Security](#cyber-security)
+  - [Operational Excellence (OPEX)](#operational-excellence-opex)
+  - [COBIT (Control Objectives for Information and Related Technology)](#cobit-control-objectives-for-information-and-related-technology)
+  - [ISMS / Policies](#isms--policies)
+    - [Einführung eines ISMS](#einführung-eines-isms)
+  - [Standards](#standards)
+  - [ISMS Scope festlegen](#isms-scope-festlegen)
+  - [GAP Analyse](#gap-analyse)
+  - [Informations Sicherheits Policies (ISO 27001, 5.2, A.5) :hammer:](#informations-sicherheits-policies-iso-27001-52-a5-hammer)
+    - [5.2 Policy](#52-policy)
+  - [Informations Sicherheits Policies (BSI 200-1, 7.1) :hammer:](#informations-sicherheits-policies-bsi-200-1-71-hammer)
+  - [ISMS schematischer Aufbau](#isms-schematischer-aufbau)
+  - [Zielsetzung, ISO27001, 6.2 :hammer:](#zielsetzung-iso27001-62-hammer)
+  - [CIA Triade](#cia-triade)
+- [2 Aktuelle Standards in der Informations Sicherheit](#2-aktuelle-standards-in-der-informations-sicherheit)
+- [3 Asset Management, Risk Management](#3-asset-management-risk-management)
+- [4 EU-GDPR, BDSG + Internationales Datenschutz Recht](#4-eu-gdpr-bdsg--internationales-datenschutz-recht)
+- [5 Rechtliche Lage Deutschland + International + Open Source](#5-rechtliche-lage-deutschland--international--open-source)
+- [6 Zero Trust](#6-zero-trust)
 
 # 1 ISO Voraussetzungn, Policies, Organisation, Governance Model
-:question: Ist ISO eine IT Rolle?
+Ist ISO eine IT Rolle?
 > der ISO sollte innerhalb der IT-Abtielung positioniert sein. So ist eine effektive Zusammenarbeit mit der IT-Abteilung möglich
 
-:question: Was ist die Verbindung zwischen ISO und der Gesetzgebung?
+Was ist die Verbindung zwischen ISO und der Gesetzgebung?
 > Der ISO hat die Aufgabe, rechtliche Rahmenbedingungen der Datenverarbeitung zu kontrollieren.
 
 ## Klassifizierung von Sicherheitsrisiken 
