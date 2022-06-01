@@ -73,10 +73,10 @@ Schritte zur Einführung von ISO 27001:
 
 ### Einführung eines ISMS
 
-:::mermaid
+```mermaid
 flowchart LR
     id1[Anforderungen \n und \n Standards \n definieren]--> id2[Beteiligte \n ermitteln]--> id3[ISMS Scope \n festlegen] --> id4[GAP Analyse \n durchführen]--> id5[Kosten \n und \n Aufwand \n Schätzung]--> id6[Management \n Erlaubnis \n erhalten] --> id7[Projekt Start]
-:::
+```
 
 ---
 
