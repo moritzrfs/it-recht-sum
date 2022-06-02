@@ -45,6 +45,16 @@
   - [BSI Standards](#bsi-standards)
   - [NIST 800-53 Security and Privacy Controls for Information Systems and Organizations, Rev. 5](#nist-800-53-security-and-privacy-controls-for-information-systems-and-organizations-rev-5)
   - [NIST Cybersecurity Framework](#nist-cybersecurity-framework)
+  - [Capability Maturity Model Integrated (CMMI)](#capability-maturity-model-integrated-cmmi)
+  - [COBIT 2019](#cobit-2019)
+    - [NIST CSF Implementierung mit COBIT 2019](#nist-csf-implementierung-mit-cobit-2019)
+  - [VDA Information Security Assessment (VDA-ISA)](#vda-information-security-assessment-vda-isa)
+  - [Human Resource Security (ISO 27001, 7.3, A.7) :hammer:](#human-resource-security-iso-27001-73-a7-hammer)
+    - [7.1 Bewusstsein für Security Themen](#71-bewusstsein-für-security-themen)
+  - [Human Resource Security (BSI200, 6) :hammer:](#human-resource-security-bsi200-6-hammer)
+  - [Teleworking](#teleworking)
+  - [Mitarbeiter Bewusstsein](#mitarbeiter-bewusstsein)
+    - [Trainingsformate um Bewusstsein zu schaffen](#trainingsformate-um-bewusstsein-zu-schaffen)
 - [3 Asset Management, Risk Management](#3-asset-management-risk-management)
 - [4 EU-GDPR, BDSG + Internationales Datenschutz Recht](#4-eu-gdpr-bdsg--internationales-datenschutz-recht)
 - [5 Rechtliche Lage Deutschland + International + Open Source](#5-rechtliche-lage-deutschland--international--open-source)
@@ -489,7 +499,101 @@ Plan, Do, Check, Act
 - Detect: Entwicklung und Implementierung angemessener Aktivitäten um Cybersecurity Vorfälle zu entdecken
 - Respond: Entwicklung und Implementierung von Reaktionen auf entdeckte Risiken
 - Recover: Entwicklung und Implementierung von Aktivitäten um mögliche Services wiederherzustellen
-- 
+
+---
+
+## Capability Maturity Model Integrated (CMMI)
+
+ist ein Schulungs- und Beurteilungsprogramm für die Verbesserung von Prozessen
+
+- Prozess Programm zum Training und Bewertung
+- Für viele Regierungsaufträge benötigt
+- CMMI definiert folgende Reife Level: Initial, Managed, Defined, Quantitatively Managed, and optimizing
+
+---
+
+## COBIT 2019
+![cobit](https://www.isaca.org/-/media/images/isacadp/project/isaca/tiles/search/cobit2019.png?mw=250&hash=4B086DB6337B1E6BB927333D705BBD31)
+
+Werkzeug für das Management und die Steuerung der Unternehmens-IT.
+
+COBIT dient als "Werkzeugkasten", um ein optimales Ausrichtung zwischen Business und IT herzustellen. Das Rahmenwerk unterstützt die Anwender beim Management der IT-Organisation und ist die Voraussetzung zur Umsetzung einer Corporate Governance.
+
+### NIST CSF Implementierung mit COBIT 2019
+
+1. Priorisierung und Scope festlegen. Business Ziele ermitteln und priorisieren. Mögliche verschiedene Anforderungen
+2. Orientierung. Identifizierung relevanter Systeme, die von diesen Zielen betroffen sind
+3. Erstellung Ist-Aufnahme
+4. Risiko Management durchführen
+5. Erstellung eines Ziel Profils
+6. Vergleich Ist/Soll-Zustand
+7. Umsetzung des Plans
+
+---
+
+## VDA Information Security Assessment (VDA-ISA)
+
+- Selbsteinschätzung um den Stand der Informationssicherheit im Unternehmen festzustellen
+- Auditierungen durch interne Abteilungen durchgeführt
+- Selbstprüfung von ISO27001
+
+---
+
+## Human Resource Security (ISO 27001, 7.3, A.7) :hammer:
+
+### 7.1 Bewusstsein für Security Themen
+
+Personen die im Unternehmen arbeiten sollten bewusstsein für ... haben:
+<ol type="a">
+  <li>die InfoSec Richtlinien</li>
+  <li>ihren Beitrag zu IT Sec Systemen und den vorteilen durch erhöhte Sicherheit</li>
+  <li>Auswirkungen durch nicht konformes Vorgehen</li>
+</ol>
+
+---
+
+## Human Resource Security (BSI200, 6) :hammer:
+- Mitarbeiter müssen geschult/trainiert sein
+- Vermittlung relevanter Aspekte
+- Mitarbeiter müssen zur Einhaltung aller im Unternehmen relevanten Gesetze, Vorschriften und Regeleungen verpflichtet werden
+- Müssen mit Informationssicherheit vertraut und motiviert sein
+- Müssen wissen, welche Vorfälle zu melden sind
+
+---
+
+## Teleworking
+- Off-Premises Benutzung
+- Reisen
+  - Parkplatz
+  - Bahnhof
+  - Flughafen
+- Home Office
+  - unauthorisierter Zugang
+  - Sicht von Außen
+  - Unbekannte Sicherheitssituation im privaten Wifi
+
+---
+
+## Mitarbeiter Bewusstsein
+
+Warum?
+- Anfälligkeit, schlechten Code nicht zu erkennen
+- können Situationen evtl. nicht einschätzen
+- Angst Fälle zu melden
+
+### Trainingsformate um Bewusstsein zu schaffen
+
+| Präventive Maßnahmen | Reaktive Maßnahmen / Tests |
+| --- | --- |
+| E-Learnings, Schulungen | Phishing Reporting |
+| Helper Tools | Incident Prozess |
+| Phishing Kampagnen | |
+| Software aktuell halten | Daten wiederherstellen|
+| Physikalischen Zugriff einschränken | Accounts entfernen |
+
+Schwierigkeiten: 
+- Fremde Sprachen
+- Kulturelles Besonderheiten
 
 # 3 Asset Management, Risk Management
 
