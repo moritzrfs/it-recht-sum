@@ -29,6 +29,9 @@
   - [6.2 Business Continuity Management (BCM)](#62-business-continuity-management-bcm)
 - [7 Workshop](#7-workshop)
 - [8 Security by Design](#8-security-by-design)
+  - [Standardisierter Einkaufswagen für IT-Equipment und Hardware Komponenten.](#standardisierter-einkaufswagen-für-it-equipment-und-hardware-komponenten)
+  - [Strategien für Software](#strategien-für-software)
+  - [Secure Coding Guidelines](#secure-coding-guidelines)
 
 # 1 ISO Voraussetzungn, Policies, Organisation, Governance Model
 Ist ISO eine IT Rolle?
@@ -272,3 +275,24 @@ Schadensausmaß :heavy_plus_sign: Eintrittshäufigkeit :heavy_plus_sign: Ist-Ma�
 # 7 Workshop
 
 # 8 Security by Design
+
+## Standardisierter Einkaufswagen für IT-Equipment und Hardware Komponenten.
+
+Für alle dem Standard abweichenden Bestellungen muss Genehmigungsprozess inklusive Security durchgeführt werden.
+
+Evtl. schwierig in Ländern wie China, wo Nutzung von [TPM Modulen](https://de.wikipedia.org/wiki/Trusted_Platform_Module) verboten ist.
+
+## Strategien für Software
+
+Universitäre Software und Lizenzen auf geschäftlichen Geräten verboten.
+
+- Hauseigene Software
+  - hohe Flexibilität
+  - Pentest
+- Outsourced entwickelte Software
+  - Ähnliche wie hauseigene
+  - Risiko und Kosten bleiben intern
+- Maßschneidern von Software
+- Software die dem Standard entspricht
+
+## Secure Coding Guidelines
