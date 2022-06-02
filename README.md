@@ -30,9 +30,21 @@
   - [Organisation von Informationssicherheit](#organisation-von-informationssicherheit)
   - [Information Security Management Board (ISMB)](#information-security-management-board-ismb)
   - [Chief Information Security Officer (CISO)](#chief-information-security-officer-ciso)
-  - [ITIL v3](#itil-v3)
-    - [Prozesse:](#prozesse)
+  - [ITIL](#itil)
+    - [ITIL v3](#itil-v3)
+      - [Prozesse:](#prozesse)
+    - [ITIL v4](#itil-v4)
+    - [Vergleich ITIL 4 im Vergleich zu ITIL 3](#vergleich-itil-4-im-vergleich-zu-itil-3)
+  - [ISO20000](#iso20000)
 - [2 Aktuelle Standards in der Informations Sicherheit](#2-aktuelle-standards-in-der-informations-sicherheit)
+  - [Informationssicherheitsstandards](#informationssicherheitsstandards)
+  - [KRITIS](#kritis)
+  - [ISO 27001 Inhalte](#iso-27001-inhalte)
+      - [ISO 27001 Zertifizierungsprozess](#iso-27001-zertifizierungsprozess)
+  - [Kontinuierlicher Verbesserungsprozess](#kontinuierlicher-verbesserungsprozess)
+  - [BSI Standards](#bsi-standards)
+  - [NIST 800-53 Security and Privacy Controls for Information Systems and Organizations, Rev. 5](#nist-800-53-security-and-privacy-controls-for-information-systems-and-organizations-rev-5)
+  - [NIST Cybersecurity Framework](#nist-cybersecurity-framework)
 - [3 Asset Management, Risk Management](#3-asset-management-risk-management)
 - [4 EU-GDPR, BDSG + Internationales Datenschutz Recht](#4-eu-gdpr-bdsg--internationales-datenschutz-recht)
 - [5 Rechtliche Lage Deutschland + International + Open Source](#5-rechtliche-lage-deutschland--international--open-source)
@@ -333,11 +345,13 @@ CISO interagiert mit allen relevanten Teilbereichen.
 
 ---
 
-## ITIL v3
+## ITIL
+
+### ITIL v3
 
 Ist die 3. Version der ITIL Service Operation und betrifft alle Aktivitäten und Maßnahmen zur Bereitstellung und Instandhaltung der IT-Infrastruktur, entsprechend ihrem Bestimmungszweck.
 
-### Prozesse:
+#### Prozesse:
 
 - Request Fulfilment
   - Abbildung standardisierter Prozesse :arrow_right: Anlaufstelle für Anfragen, Beschwerden, ...
@@ -346,9 +360,136 @@ Ist die 3. Version der ITIL Service Operation und betrifft alle Aktivitäten und
 - Incident Management
   - Störungen werden nach vereinbarten Service Levels bearbeitet
 - Problem Management 
-  - 
+  - Hier werden dem Incident-Management temporäre Lösungen (workarounds) zur Verfügung gestellt
+  - befasst es sich mit der Störungsvermeidung (proaktives Management)
+
+---
+
+### ITIL v4
+
+ITIL 4 bringt einige neue Gedanken ein und entwickelt bestehende Inhalte von ITIL v3 weiter. 
+
+- ITIL 4 nennt zwei Schlüsselelemente:
+- Service Value System SVS 7
+- Modell der vier Dimensionen
+
+Ganzeinheitlicher Ansatz für Management
+- Organisation und Personen
+- Informationen und Technologien
+- Partner und Lieferanten
+- Wertströme und Prozesse
+
+---
+
+### Vergleich ITIL 4 im Vergleich zu ITIL 3
+
+- Continual Improvement: beide
+- Identity und Access Management: beide
+- Definition von Maßnahmen und Berichterstattungen: nur in ITIL 4
+
+---
+
+## ISO20000
+
+- Internationaler Standard für IT Service Management
+- Ursprünglich entwickelt, um Best-Practice Guidelines innerhalb ITIL aufzuzeigen
+
+| Standard | Zertifizierung Unternehmen möglich | Zertifizierung Person möglich | Gültigkeit |
+| --- | --- | --- | --- |  
+| ISO/IEC 20000 | Ja | Nein | 3 Jahre |
+
+---
 
 # 2 Aktuelle Standards in der Informations Sicherheit
+
+## Informationssicherheitsstandards
+| Standard | Beschreibung |
+| --- | --- |
+| ISO27001 | ... |
+| BSI 200 | ... | 
+| NIST SP 800-53 | Zusätzliche Hintergrundinformationen, Gültigkeit, Implementierungshilfen, Bewertung |
+| NIST Cybersecurity Framework | Freiwilliges Framework mit den Inhalten von Standards, Guidelines und Best-Practice Ansätzen zur Handhabung von Cyber Security Risiken |
+| TISAX | Der Standard betrifft die sichere Verarbeitung von Informationen von Geschäftspartnern, den Schutz von Prototypen und den Datenschutz gemäß Datenschutz-Grundverordnung (DSGVO) für mögliche Geschäfte zwischen Autoherstellern und ihren Dienstleistern oder Lieferanten | 
+| TPISR | PISR erfüllt damit eine ähnliche Rolle für US-Firmen wie TISAX in der deutschen Autoindustrie |
+
+---
+
+## KRITIS 
+
+Organisationen und Einrichtungen mit wichtiger Bedeutung für das staatliche Gemeinwesen, bei deren Ausfall oder Beeinträchtigung nachhaltig wirkende Versorgungsengpässe, erhebliche Störungen der öffentlichen Sicherheit oder andere dramatische Folgen eintreten würden
+
+![kritis](img/KRITIS_Sektordiagramm.png)
+
+Betroffene Unternehmen müssen:
+- Kontakt mit Behörden führen
+- IT Vorfälle melden
+- State of the Art implementieren
+- ISO27001 Nachweis alle 2 Jahre
+
+---
+
+## ISO 27001 Inhalte
+
+Organisatorische und prozeduale Anforderungen
+
+5. Richtlinien zur Informationssicherheit
+6. Organisation der Informationssicherheit
+7. Sicherheit der Humanressourcen
+8. Vermögensverwaltung
+9. Zugangskontrolle
+10. Kryptographie
+11. Physische und umgebungsbezogene Sicherheit 
+12. Sicherheit im Betrieb 
+13. Kommunikationssicherheit
+14. Erwerb, Entwicklung und Wartung von Systemen
+15. Lieferantenbeziehungen
+16. Management von Informationssicherheitsvorfällen
+17. Informationssicherheit des Business-Continuity-Managements
+18. Einhaltung interner Anforderungen, z. B. Richtlinien, und externer Anforderungen, z. B. Gesetze
+
+#### ISO 27001 Zertifizierungsprozess
+```mermaid
+flowchart LR
+    id1[1: Vorbereitung & \n Dokumentation]--> id2[Stage 1 \n Audit]--> id3[ISMS \n Implementierung]--> id4[Stage 2 \n Audit]--> id5[ISMS Wartung & \n Verbesserung] -->id6[Kontinuierliche \n Audits]
+```
+
+---
+
+## Kontinuierlicher Verbesserungsprozess
+
+![pdca cycle](img/PDCA_Cycle.svg.png)
+
+Plan, Do, Check, Act
+
+---
+
+## BSI Standards
+
+| Standard | Inhalt |
+| --- | --- |
+| BSI-Standard 200-1 | ISMS | 
+| BSI-Standard 200-2 | IT-Grundschutz-Methodik |
+| BSI-Standard 200-3 | Risiko Analyse | 
+| BSI-Standard 200-4 | Notfallmanagement |
+
+---
+
+## NIST 800-53 Security and Privacy Controls for Information Systems and Organizations, Rev. 5
+
+- Gültigkeit bezieht sich auf alle Organisationen, nicht nur staatliche
+- Anwendung in jeglicher Organisation oder System, das entweder Daten verarbeitet, speichert oder überträgt.
+- soll Organisationen helfen, die Sicherheits- und Datenschutzkontrollen zu identifizieren, die zum Risikomanagement und zur Erfüllung der Sicherheits- und Datenschutzanforderungen Anforderungen
+
+## NIST Cybersecurity Framework
+
+![nist cybersecurity framework](https://www.nist.gov/sites/default/files/styles/220_x_220_limit/public/images/2019/10/18/framework_functions_wheel.png?itok=1KLGPsFQ)
+
+- Identify: Entwicklung eines Verständnisses im Unternehmen um Cybersecurity Risiken zu bewältigen :arrow_right: Systeme, Menschen, Geräte, Daten
+- Protect: Entwicklung und Implementierung angemessener Sicherheitsmaßnahmen
+- Detect: Entwicklung und Implementierung angemessener Aktivitäten um Cybersecurity Vorfälle zu entdecken
+- Respond: Entwicklung und Implementierung von Reaktionen auf entdeckte Risiken
+- Recover: Entwicklung und Implementierung von Aktivitäten um mögliche Services wiederherzustellen
+- 
 
 # 3 Asset Management, Risk Management
 
