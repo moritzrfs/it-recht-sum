@@ -21,6 +21,17 @@
   - [ISMS schematischer Aufbau](#isms-schematischer-aufbau)
   - [Zielsetzung, ISO27001, 6.2 :hammer:](#zielsetzung-iso27001-62-hammer)
   - [CIA Triade](#cia-triade)
+  - [Informationssicherheit Schutzziele](#informationssicherheit-schutzziele)
+  - [Informationssicherheits Prinzipien](#informationssicherheits-prinzipien)
+  - [Organisation von Informationssicherheit (ISO 27001, 5.3) :hammer:](#organisation-von-informationssicherheit-iso-27001-53-hammer)
+    - [5.3](#53)
+  - [Organisation von Informationssicherheit (BSI 200, 7.2) :hammer:](#organisation-von-informationssicherheit-bsi-200-72-hammer)
+    - [7.2](#72)
+  - [Organisation von Informationssicherheit](#organisation-von-informationssicherheit)
+  - [Information Security Management Board (ISMB)](#information-security-management-board-ismb)
+  - [Chief Information Security Officer (CISO)](#chief-information-security-officer-ciso)
+  - [ITIL v3](#itil-v3)
+    - [Prozesse:](#prozesse)
 - [2 Aktuelle Standards in der Informations Sicherheit](#2-aktuelle-standards-in-der-informations-sicherheit)
 - [3 Asset Management, Risk Management](#3-asset-management-risk-management)
 - [4 EU-GDPR, BDSG + Internationales Datenschutz Recht](#4-eu-gdpr-bdsg--internationales-datenschutz-recht)
@@ -231,7 +242,112 @@ Wichtigste IT Schutzziele:
 - Integrität: Daten sollen korrekt und vollständig sein. Änderungen müssen nachvollzogen werden können. :arrow_right:  Kompromitierungsbeispiel: Ransomware → Die Daten werden verändert
 - Verfügbarkeit: Informationstechnische Systeme müssen durchgängige Verfügbarkeit der Daten gewährleisten. Festlegung des Rahmens durch Unternehmen in Service-Level-Agreement. :arrow_right: DDoS Angriff
 
-Folie 88
+---
+
+## Informationssicherheit Schutzziele
+1. Informationen sind verfügbar, wenn sie benötigt werden
+2. Vertrauliche Informationen müssen angemessen behandelt werden
+3. Datenabfluss muss verhindert werden
+4. Investitionen in IT, Operation und Know-How muss geschützt werden
+5. Kosten bei eventuellem Schaden muss klein gehalten werden
+6. Das Recht auf informationelle Selbstbestimmung muss gegeben sein
+7. Einhaltung lokaler Richtlinien und Gesetze
+
+---
+
+## Informationssicherheits Prinzipien
+
+1. CIA
+2. InfoSec Franework nach ISO27001 ausgerichtet
+3. Anpassung und Skalierung nach Bedarf
+4. Klar definierte Verantwortlichkeiten
+5. Vorhandensein des Bewussteins für InfoSec
+6. Globale Sicherheits Richtlinien müssen umgesetzt werden
+7. Vorfälle müssen sofort gemeldet werden
+8. Regelmäßige Audits notwendig
+9. Management muss Unterstützung zeigen und motivieren, Verbesserungsvorschläge einzureichen
+
+---
+
+## Organisation von Informationssicherheit (ISO 27001, 5.3) :hammer:
+
+### 5.3
+Führungsebene muss sicherstellen, dass Verantwortlichkeiten und Pflichten zugewiesen und kommuniziert sind.
+
+Soll Verantwortlichkeiten zuweisen für:
+
+<ol type="a">
+  <li>Sicherstellung, dass InfoSec Anforderungen dieses internationalen Standards entspricht</li>
+  <li>Berichterstattung über Performance der InfoSec an Führungsebene</li>
+</ol>
+
+---
+
+## Organisation von Informationssicherheit (BSI 200, 7.2) :hammer:
+
+### 7.2
+
+Festlegen und Planung von  orga. Strukturen, Rollen und Pflichten.
+
+Bei der Planung der Rollen, müssen folgende Regeln beachtet werden:
+
+1. Die Verantwortung für InfoSec verbleibt in der Führungsebene
+2. Es muss eine koordinierende Person geben (ISO)
+3. Jeder Mitarbeiter ist für die Informationssicherheit an der eigenen Arbeitsstelle verantwortlich (beachten der do's and dont's in bezug auf InfoSec)
+
+---
+
+## Organisation von Informationssicherheit
+
+```mermaid
+flowchart LR
+    id1[1: Analysieren und Sammeln]--> id2[2: Struktur und Umwandlung]--> id3[3: Implementierung ]
+```
+1. 
+   1. Was ist benötigt
+   2. In welchem Kontext?
+   3. in welcher Form?
+2. 
+   1. Ähnlichkeiten von Anforderungen
+   2. Widersprüchlichkeiten von Anforderungen
+   3. Wie passen Anforderungen in Struktur
+3. 
+   1. Einen Demand starten und abarbeiten
+   2. Management Erlaubnis einholen
+   3. Strukturen schaffen, Prozesse, Tools, Verwaltung
+   4. Informieren und Trainieren von Leuten
+
+---
+
+## Information Security Management Board (ISMB)
+
+![ismb](img/ismb.png)
+
+---
+
+## Chief Information Security Officer (CISO)
+
+CISO interagiert mit allen relevanten Teilbereichen.
+
+![ciso](img/ciso.png)
+
+---
+
+## ITIL v3
+
+Ist die 3. Version der ITIL Service Operation und betrifft alle Aktivitäten und Maßnahmen zur Bereitstellung und Instandhaltung der IT-Infrastruktur, entsprechend ihrem Bestimmungszweck.
+
+### Prozesse:
+
+- Request Fulfilment
+  - Abbildung standardisierter Prozesse :arrow_right: Anlaufstelle für Anfragen, Beschwerden, ...
+- Event management
+  - Event ist Ereignis, das in IT ausgelöst wurde. Event muss zur Lösung an Servicedesk weitergeleitet werden
+- Incident Management
+  - Störungen werden nach vereinbarten Service Levels bearbeitet
+- Problem Management 
+  - 
+
 # 2 Aktuelle Standards in der Informations Sicherheit
 
 # 3 Asset Management, Risk Management
@@ -255,11 +371,6 @@ Incident Management (BSI 200)
 
 ISO 22301, Sicherheit und Widerstandsfähigkeit
 
-```mermaid
-flowchart LR
-    id1[Ereignis]--> id2[Wiederanlauf]--> id3[Notbetrieb] --> id4[Wiederherstellung]
-```
-
 Notfallplan
 1. Strategie, Ziele, Geltung
 2. Sofortmaßnahmen: Melden, Alarmierung, Notfallstab
@@ -268,7 +379,7 @@ Notfallplan
 
 Risiko Management Prozess
 
-Risiko klassifizieren und einschätzen, wie hoch die usfallwahrscheinlichkeit ist. Ermittlung Zielrisiko
+Risiko klassifizieren und einschätzen, wie hoch die ausfallwahrscheinlichkeit ist. Ermittlung Zielrisiko
 
 Schadensausmaß :heavy_plus_sign: Eintrittshäufigkeit :heavy_plus_sign: Ist-Maßnahmen :heavy_plus_sign: Soll-Maßnahmen
 
