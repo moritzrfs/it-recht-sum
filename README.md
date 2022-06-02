@@ -26,6 +26,9 @@
 - [4 EU-GDPR, BDSG + Internationales Datenschutz Recht](#4-eu-gdpr-bdsg--internationales-datenschutz-recht)
 - [5 Rechtliche Lage Deutschland + International + Open Source](#5-rechtliche-lage-deutschland--international--open-source)
 - [6 Zero Trust](#6-zero-trust)
+  - [6.2 Business Continuity Management (BCM)](#62-business-continuity-management-bcm)
+- [7 Workshop](#7-workshop)
+- [8 Security by Design](#8-security-by-design)
 
 # 1 ISO Voraussetzungn, Policies, Organisation, Governance Model
 Ist ISO eine IT Rolle?
@@ -235,3 +238,37 @@ Folie 88
 # 5 Rechtliche Lage Deutschland + International + Open Source
 
 # 6 Zero Trust
+
+## 6.2 Business Continuity Management (BCM)
+
+Ziel: Im Rahmen eines Ausfalls Business am Laufen halten
+
+Simulation: bei Ausfall von Systemen :arrow_right: Konsequenzen testen.
+
+Festlegung der Ausfallzeiten in SLA.
+Stark aus ISO9001 stellen Anforderungen an InfoSec Prozesse, obwohl sie Qualitätsnormen sind.
+
+Incident Management (BSI 200)
+
+ISO 22301, Sicherheit und Widerstandsfähigkeit
+
+```mermaid
+flowchart LR
+    id1[Ereignis]--> id2[Wiederanlauf]--> id3[Notbetrieb] --> id4[Wiederherstellung]
+```
+
+Notfallplan
+1. Strategie, Ziele, Geltung
+2. Sofortmaßnahmen: Melden, Alarmierung, Notfallstab
+3. Vorsorge
+
+
+Risiko Management Prozess
+
+Risiko klassifizieren und einschätzen, wie hoch die usfallwahrscheinlichkeit ist. Ermittlung Zielrisiko
+
+Schadensausmaß :heavy_plus_sign: Eintrittshäufigkeit :heavy_plus_sign: Ist-Maßnahmen :heavy_plus_sign: Soll-Maßnahmen
+
+# 7 Workshop
+
+# 8 Security by Design
