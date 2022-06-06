@@ -9,8 +9,10 @@
 [Chapter 2](chapter_2.md)
 
 # 3 Asset Management, Risk Management
+[Chapter 3](chapter_3.md)
 
 # 4 EU-GDPR, BDSG + Internationales Datenschutz Recht
+[Chapter 4](chapter_4.md)
 
 # 5 Rechtliche Lage Deutschland + International + Open Source
 
