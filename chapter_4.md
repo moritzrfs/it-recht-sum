@@ -264,7 +264,7 @@ Folgeabschätzung muss enthalten:
   - Colorado
   - Virginia
 
-## GDPR vs. China Personal InformationProtection Law (PIPL)
+## GDPR vs. China Personal Information Protection Law (PIPL)
 
 PIPL soll rahmen schaffen, wie Unternehmen weltweit, in China als auch außerhalb, personenbezogene Daten verarbeiten, sammeln und weitergeben
 
