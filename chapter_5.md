@@ -104,7 +104,143 @@ Im Bereich Telekommunikation Wettbewerb fördern und flächendeckend angemessen 
   - Wettbewerb zum Nutzen der Verbraucher schützen
 
 ### Art 10 GG
+
 Brief-, Post-, und Fernmeldegeheimnis sind unverletzlich
-(Einschränkung nur für Wahrung und Schutz demokratischer Werte)#
+(Einschränkung nur für Wahrung und Schutz demokratischer Werte)
 
 ### §88 Fernmeldegeheimnis
+
+- jeder Diensteanbieter ist zur Geheimhaltung verpflichtet
+- Es geht um Inhalt der Kommunikation und wer daran beteiligt ist
+- Geheimdineste und Ermittlungsbehörden dürfen Überwachen
+
+### §89 Abhörverbot, Geheimhaltungspflicht der Betreiber von Empfangsanlagen
+
+### §90 Missbrauch von Sende- oder sonstigen Telekommunikationsanlagen
+
+- Verbot Sendeanlagen oder Telekommunikationsanlagen zu besitzen, herzustellen, vertreiben, ...
+
+### §148 Strafvorschriften
+
+- Freiheitsstrafen von bis zu 2 Jahren oder Geldstrafe können angesetzt werden
+  - Wer abhört
+  - Oderr Illegale Anlage besitz
+- Bei Fahrlässigkeit bis 1 Jahr oder Geldstrafe
+
+## Telemediengesetz (TMG) :hammer:
+
+### §1 Anwendungsbereich
+
+Gilt für Informations- und Kommunikationsdienste
+
+Grundsätze:
+- Eigene Verantwortung der selber gespeicherten Daten
+- Keine Pflicht, in Daten nach Rechtsverstößen zu suchen
+- Bei rechtlicher Anordnung müssen illegale Inhalte entfernt werden
+- 
+- Rechtliche Rahmenbedingungen für Telemedien
+- Zentrale Vorschrift des Internetrechts
+- Copyright oder geistiges Eigentum Inhalt der Daten, kann betroffener Sperrung verlangen
+
+### §8 Durchleitung von Informationen
+
+Diensteanbieter hat keine Verantowrtung über die Daten, solange er diese nicht verändert
+
+###  §9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
+
+Zwischenspeicherung ist erlaubt, wenn sie dem Zweck dient, Übermittlung fremder Informationen an andere Nutzer effizienter zu gestalten.
+Nicht haftbar für Inhalte, so lange sie diese nicht verändert haben
+
+### §10 Speicherung von Informationen
+
+Diensteanbieter sind nicht für Inhalte verantwortlich, sofern keine kenntnis über rechtswidrige Handlungen besteht.
+
+Müssen jedoch Tätig werden, wenn sie über Rechtswidrigkeit informiert werden.
+
+## Betriebsverfassungsgesetz :hammer:
+
+### §87 Mitbestimmungsrechte
+
+Betriebsrat hat Recht mitzubestimmen, wenn Einführung und Anwendung von technischen Einrichtungen, die dazu bestimmt sind, das Verhalten oder die Leistung der Arbeitnehmer zu überwachen, eingeführt werden soll
+
+## BSI Gesetz (BSIG)
+
+### §1 Bundesamt für Sicherheit in der Informationstechnik
+
+Das Bundesamt ist zuständig für die Informationssicherheit auf nationaler Ebene
+
+### §3 Aufgaben des Bundesamtes
+
+- Schutz der Netze des Bundes, Erkennung und Abwehr von Angriffen auf die Regierungsnetze
+- Prüfung, Zertifizierung und Akkreditierung von IT-Produkten und -Dienstleistungen
+- Warnung vor Schadprogrammen oder Sicherheitslücken in IT-Produkten und -Dienstleistungen
+- Sicherheit in der Informationstechnik Kritischer Infrastrukturen
+
+### §3a Verarbeitung personenbezogener Daten
+
+Verarbeitung personenbezogener Daten durch Bundesamt ist zulässig, für öffentl. Interesse Aufgaben notwendig ist.
+
+### §4 Zentrale Meldestelle für die Sicherheit in der Informationstechnik des Bundes
+
+### §5 Abwehr von Schadprogrammen und Gefahren für die Kommunikationstechnik des Bundes
+
+### §8a Sicherheit in der Informationstechnik Kritischer Infrastrukturen
+
+## Bürgerliches Gesetzbuch (BGB) :hammer:
+
+### $826 Sittenwidrige vorsätzliche Schädigung
+
+Wer anderem Schaden zufügt und gegen gute Sitten verstößt, muss Geschädigtem Schadensersatz zahlen
+
+### § 823 Schadensersatzpflicht
+
+## Störerhaftung
+
+Störer ist, wer ohne Täter zu sein, willentlich und adäquat zu Straftat beträgt.
+Beispiel: öffentl. WLAN
+
+## Strafgesetzbuch (StGB) :hammer:
+
+### § 201 Verletzung der Vertraulichkeit des Wortes
+
+- Nichtöffentlich Gesprochenes Wort darf nicht aufgenommen werden
+- Anhören solcher Aufnahmen
+- Verbreiten solcher Aufnahmen ebenfalls verboten
+
+### § 201a Verletzung des höchstpersönlichen Lebensbereichs und von Persönlichkeitsrechten durch Bildaufnahmen
+
+Fotos in Wohnung oder privaten Bereichen (geschütztem Raum) verboten
+
+### § 202 Verletzung des Briefgeheimnisses
+
+### § 202a Ausspähen von Daten
+
+### § 202b Abfangen von Daten
+
+Wie Ausspähen , jedoch unter Anwendung dafür vorgesehener technischer Mittel
+
+### § 202c Vorbereiten des Ausspähens und Abfangens von Daten (Hackerparagraph)
+
+Vorbereitung durch:
+- Verschaffen von Passwörtern oder Sicherheitscodes
+- Computerprogramme, deren Zweck oben genanntes ist
+
+### § 149 Vorbereitung der Fälschung von Geld und Wertzeichen
+
+### § 202d Datenhehlerei
+- Unrechtmäßig erlangt Daten dürfen nicht verkauft werden
+- Strafe darf nicht höher ausfallen, als für vorangegangene Tat
+
+### § 303 Sachbeschädigung
+
+### §303a Datenveränderung
+
+### §303b Computersabotage
+
+### § 184 Verbreitung pornographischer Inhalte
+
+### § 184a Verbreitung gewalt- oder tierpornographischer Inhalte
+
+### § 184b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
+Unter 14 Jahren
+### § 184c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte
