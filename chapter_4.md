@@ -238,3 +238,98 @@ Folgeabschätzung muss enthalten:
 - Keine Einschränkung durch Risiko solange ausreichend geschützt
 - Schutzmaßnahmen müssen zertifizierts sein
 - Schwere Konsequenzen
+
+## GDPR vs. Thai Personal Data Protection Act (PDPA)
+
+- Ähnlich zu GDPR
+- Schriftliche Zustimmung notwendig, GDPR nur implizit
+- Kinder ab 10 
+- Recht auf Löschung nur wenn Verarbeiter nicht compliant, oder nicht mehr für den Zweck der verarbeitung benötigt
+- Widerruf: erhobene Daten weiterhin, jedoch keine neuen
+- Niedrigere Strafen
+- Datenschutzbeauftragter nur wenn:
+  - Großer Umfang
+  - Kernaktivität Verarveitung sensible Daten
+
+## GDPR vs. USA
+
+- nur kleine Grundlagen von datenschutz für US Bürger, für nicht US Bürger gar keine
+- Schutz der Privatsphäre soll durch Gesetze geschützt werden
+  - FISMA: IT Sec und Protection Programm für Behörden
+  - HIPAA: Schutz von Gesundheitsdaten
+  - NIST 800-171: Datenschutz unklassifizierter Informationen für nicht behördliche Verarbeitung
+  - GLB: Schutz persönlicher Informationen in Finanzbehörden
+- Handhabung unterschiedlich je nach Staat
+  - California: Vorretier in USA. 2023 CPRA Erweiterung von CCPA -> Enforcement
+  - Colorado
+  - Virginia
+
+## GDPR vs. China Personal InformationProtection Law (PIPL)
+
+PIPL soll rahmen schaffen, wie Unternehmen weltweit, in China als auch außerhalb, personenbezogene Daten verarbeiten, sammeln und weitergeben
+
+Rechte für Personen
+- Recht zu Wissen, was Unterhemen mit den Daten macht und machen wird
+- Recht Entscheidung über Daten zu treffen
+- Recht Verarbeitung einzuschränken oder zu verbieten
+- Recht Daten einzusehen
+- Recht auf Löschung
+- Recht auf Übertragung
+- Recht auf Auskunft über Reglen der Verarbeitung
+
+Anforderungen PIPL
+- Zustimmung von Person :arrow_right: GDPR
+- Daten benötigt, um Vertrag zu erfüllen :arrow_right: GDPR
+- Daten für HR benötigt, Arbeitsgesetze, Tarifverträge: :arrow_right: GDPR
+- Daten für gesetzliche Aufgaben :arrow_right: GDPR
+- Daten für öffentliches Interesse relevant :arrow_right: GDPR
+- Person hat Daten ebreits selber offengelegt :arrow_right: GDPR
+
+Sensible Daten (GDPR spezielle Kategorien)
+
+- Religion, Health, Finanzen, Biometrische Daten
+
+Besser in PIPL: 
+
+- Schulungen/Trainings für Umgang mit p. Daten für Mitarbeiter gefordert
+- Datenweitergabe an Ausland ohne Zustimmung der Regierung untersagt
+
+## GDPR vs. INAI (Mexico)
+
+- Definiton personenbezogener Daten gleich wie in GDPR
+- Spezielle Kategorien sind in INAI Sensitive Personal Data
+- Datenschutzbeauftragter gefordert
+
+Grundsätze für Verarbeitung
+- Transparent und fair :arrow_right: GDPR
+- Eindeutig :arrow_right: GDPR
+- Einwilligung muss eingeholt werden
+- Verarbeitung nach Zweck der Erhebung :arrow_right: GDPR
+- Korrekt und auf dem aktuellen Stand :arrow_right: GDPR
+- Dauer nur dem Zweck :arrow_right: GDPR
+- Betroffene können agmessene Privatsphäre erwarten
+- Datenschutzhinweis kann gefordert werden
+
+Einwilligung:
+
+- Implizit
+- Stillschweigend
+- Ausdrücklich (Finanz und Vermögensdaten)
+
+Keine Einwilligung erforderlich wenn:
+
+- Durch Gesetz erforderlich :arrow_right: GDPR
+- Daten eh öffentlich zugänglich :arrow_right: GDPR
+- Pseudonymisiert
+- Pflichten Rechtsverhältnis :arrow_right: GDPR
+- Notfallsituation
+- Medizinisch :arrow_right: GDPR
+- Justiz :arrow_right: GDPR
+
+Meldung Verletzungen
+
+- bei Verlust, Zerstörung, Diebstahl, Nutzung Zugriff (unrechtmäßig)
+
+Empfehlung an betroffene, was für Maßnahmen ergriffen werden sollten
+
+Klarer als in GDPR geregelt: Benachrichtigung über Ursache, Hergang, Handlungsempfehlungen
