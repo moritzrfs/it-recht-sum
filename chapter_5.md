@@ -58,6 +58,7 @@ Rechtsverletzendes Produkt: Produkt, dessen Merkmale, Funktionsweise, ... auf re
 ### §3 Erlaubte Handlung
 
 Geschäftsgeheimnis darf erlangt werden durch:
+
 - Eigene Wertschöpfung
 - Beobachten, Untersuchen, Testen, ... von Produkt das:
   - öffentlich gemacht wirde
@@ -65,10 +66,13 @@ Geschäftsgeheimnis darf erlangt werden durch:
 - durch Gesetz
 
 ### §4 Handlungsverbote
+
 Geschäftsgeheimnis darf nicht erlangt werden durch:
+
 - unbefugtes Aneignen oder Kopieren
 
 Geschäftsgeheimnis darf nicht offenlegen wer:
+
 - Unrechtmäßig erlangt hat
 - gegen Verpflichtung der Nutzung des Geheimnisses verstößt
 - gegen Verpfichtung verstößt, Geheimnis nicht offenzulegen
@@ -76,12 +80,15 @@ Geschäftsgeheimnis darf nicht offenlegen wer:
 Geschäftsgeheimnis darf nicht offengelegt werden, wenn über andere Person erlangt und zzum Zeitpunkt des Erlangens offensichtlich war, dass andere Person Geheimnis entgegen Absatz 22 genutzt oder offengelegt hat.
 
 ### §5 Ausnahmen
+
 Durch berechtigtes Interesse:
+
 - Recht freie Meinungsäußerung
 - Ausdruck rechtswidrige Handlung
 - Arbeitnehmer gegenüber Arbeitnehmervertretung zuur Aufgabenerfüllung (Betriebsrat)
 
 Neuerungen:
+
 - Erforderlichkeit angemessene Geheimhaltungsmaßnahmen zu treffen, damit ein rechtlich geschütztes Geheimnis vorliegt
 - das allgemeine öffentliche Interesse zu schützen hebelt GeschGeh aus
 
@@ -134,10 +141,10 @@ Brief-, Post-, und Fernmeldegeheimnis sind unverletzlich
 Gilt für Informations- und Kommunikationsdienste
 
 Grundsätze:
+
 - Eigene Verantwortung der selber gespeicherten Daten
 - Keine Pflicht, in Daten nach Rechtsverstößen zu suchen
 - Bei rechtlicher Anordnung müssen illegale Inhalte entfernt werden
-- 
 - Rechtliche Rahmenbedingungen für Telemedien
 - Zentrale Vorschrift des Internetrechts
 - Copyright oder geistiges Eigentum Inhalt der Daten, kann betroffener Sperrung verlangen
@@ -146,7 +153,7 @@ Grundsätze:
 
 Diensteanbieter hat keine Verantowrtung über die Daten, solange er diese nicht verändert
 
-###  §9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
+### §9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
 
 Zwischenspeicherung ist erlaubt, wenn sie dem Zweck dient, Übermittlung fremder Informationen an andere Nutzer effizienter zu gestalten.
 Nicht haftbar für Inhalte, so lange sie diese nicht verändert haben
@@ -222,12 +229,14 @@ Wie Ausspähen , jedoch unter Anwendung dafür vorgesehener technischer Mittel
 ### § 202c Vorbereiten des Ausspähens und Abfangens von Daten (Hackerparagraph)
 
 Vorbereitung durch:
+
 - Verschaffen von Passwörtern oder Sicherheitscodes
 - Computerprogramme, deren Zweck oben genanntes ist
 
 ### § 149 Vorbereitung der Fälschung von Geld und Wertzeichen
 
 ### § 202d Datenhehlerei
+
 - Unrechtmäßig erlangt Daten dürfen nicht verkauft werden
 - Strafe darf nicht höher ausfallen, als für vorangegangene Tat
 
@@ -242,5 +251,52 @@ Vorbereitung durch:
 ### § 184a Verbreitung gewalt- oder tierpornographischer Inhalte
 
 ### § 184b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
+
 Unter 14 Jahren
+
 ### § 184c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte
+
+## 5 Rechtliche International + Open Source
+
+## NIST 800-171 :hammer:
+
+- Relevant für Zusammenarbeit mit Regierung
+- Behandlung von Controlled Unclassified Information (CUI)
+  - CUI sind Regierungsdaten
+  - Ausreichender Schutz gefordert
+
+## National Defense Authorization Act
+
+Bundesgesetz, das den Haushalt des US Department of Defense bestimmt
+
+Effekte
+
+- Compliance für Geräte bei Geschäften mit US Regierung gefordert
+
+## Was ist OpenSource
+
+Software, die:
+
+- frei verfügbar ist
+- änderbar ist
+
+![open-source](img/opensource-table.png)
+
+![copyright](img/copyright.png)
+
+![copyright](img/copyright-examples.png)
+
+MIT-License: Permissive und Free Software
+GNU (General Public License): Copyleft Lizenzen
+GNU Lesser General Public License (LGPL): Darf mit Software verlinkt werden, die nicht die GPL Lzenz hat
+GNU Affero General Public License: Software die über Netzwerk ausgeführt wird
+
+## OpenSource in Unternehmen
+
+| Pro | Contra |
+| --- | --- |
+| Keine direkten Lizenzkosten | Lizenzkosten für kommerzielle Nutzung |
+| Umfangreiche Dokmentation | Hafung selber |
+| Anpassbar | Kein professioneller Support |
+| Kein "hidden code" | SLAs fehlen |
+| | Kein Product Lifecycle |
