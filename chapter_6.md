@@ -121,8 +121,8 @@ Ist genutz um spezielle Gefahren und benötigte Herausforderungen gebündelt abz
 ## Business Continuity Management (ISO 22301)
 
 Ziel: Business muss am Laufen gehalten werden
+
 - Priorität liegt auf Verfübarkeit
 - SLAs zu Ausfallzeiten
-- 
 
 ![iso22301](img/iso22301.png)
