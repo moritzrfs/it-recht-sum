@@ -139,7 +139,7 @@ Gilt besonders im Fall von Verarbeitunf personenbezogener Daten von Kindern.
 2) Wenn verarbeiter daten veröffentlich hat, muss er diese Rückgängig machen und alle Maßnahmen ergreifen, damit dies geschieht
 
 3) 1 und 2 gelten nicht, wenn einer oder mehrere der folgenden Gründe zutrifft:
-   
+
    - Freie Meinungsäußerung
    - Erfüllung rechtlicher Pflichten
    - öffentliches Interesse
@@ -153,13 +153,25 @@ Gilt besonders im Fall von Verarbeitunf personenbezogener Daten von Kindern.
 
 ## GDPR Art. 32 Sicherheit der Verarbeitung
 
-1) Angemessene Schutzmaßnahmen in Bezug auf Risiko 
+1) Angemessene Schutzmaßnahmen in Bezug auf Risiko
+
    a) Pseudonymisierung
    b) Systeme CIA sicherstellen
    c) Verfügbarkeit und Möglichkeit der Wiederherstellung sicherstellen
    d) Auditierung der Maßnahmen
 2) Für Beurteilung des Schutzniveaus muss Risiko berücksichtigt werden besonders für Vernichtung, Verlust, Veränderung oder Offenlegung
-4) Nur berechtigte dürfen Daten verarbeiten
+3) Nur berechtigte dürfen Daten verarbeiten
+
+## GDPR Art. 33 Meldung von Verletzungen des Schutzes personenbezogener Daten an die Aufsichtsbehörde
+
+1. Meldung relevanter Vorfälle binnen 72 Stunden an Behörde
+2. Verantwortlichen informieren
+3. Alle den VOrfall betreffende relevante Informationen liefern
+
+## GDPR Art. 34 Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person
+
+1. Bei hohem Risiko muss betroffene Person unverzüglich informiert werden
+2. Vorfall klar und verständlich beschreiben
 
 ## GDPR Art. 30 Verzeichnis von Verarbeitungstätigkeiten
 
