@@ -83,6 +83,7 @@ Controller sind für die Einhaltung der Compliance zuständig
 
 Die Verarbeitung ist nur rechtsmäßig, wenn mindestens eine der nachstehenden Bedingungen erlaubt:
 
+- Die betroffene Person hat ihre Einwilligung zu der Verarbeitung gegeben
 - Vertragliche Notwendigkeit: wenn Daten evrarbeitet werden müssen, um einen Vertrag/Dienstleistung zu erfüllen
 - Verarbeitung zur Erfüllung einer rechtlichen Verpflichtung erforderlich
 - die Verarbeitung ist erforderlich, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen
