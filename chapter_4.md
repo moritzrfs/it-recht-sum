@@ -1,6 +1,6 @@
 # 4 EU-GDPR – Introduction
 
-## ISO 27001, A.18 
+## ISO 27001, A.18 :hammer:
 
 ### 18.1 Compliance mit Gesetzen und vertraglichen Anforderungen
 Ziel: Vermeidung von Verstößen gegen Gesetze, Verträge in Bezug auf Informationssicherheit.
@@ -12,7 +12,7 @@ Ziel:  Sicherstellen, dass IT Security im Einklang mit den Unternehmens Richtlin
 
 Auswählen von Sicherheitsmaßnahmen
 
-## Comppliance und Datenschutz
+## Compliance und Datenschutz
 
 Grundsätze Datenschutz:
 
@@ -21,7 +21,7 @@ Grundsätze Datenschutz:
 - Jeder Bürger hat Grundrecht auf informationelle Selbstbestimmung
 - “Verbot mit Erlaubnisvorbehalt” → Datenverarbeitung grundsätzlich verboten, es sei denn, es liegt eine rechtliche Legitimation vor.
 
-## verarbeitung persönlicher Daten nach Ländern
+## Verarbeitung persönlicher Daten nach Ländern
 
 | Land/Region | Gesetz | Vergleich EU-GDPR |
 | --- | --- | --- |
@@ -58,19 +58,21 @@ Personenbezogene Daten:
 - Genetische oder Biometrische Daten
 - Sex Life oder Orientierung
 
-dürfen nicht verarbeitet werden.
+dürfen nicht verarbeitet werden, solange der Betroffene nicht ausdrücklich eingewilligt hat.
+
+Ausnahmen wie gehabt (Ausübung Rechter und Pflichten, Schutz lebenswichtiger Interessen, Rechtsansprüche, ...)
 
 ## Data Controller - Data Processor
 
 - Processor muss die gleichen  Grundsätze wie Controller verfolgen
-- Processor muss alle Aktivitäten, die er für Processor vorgenommen hat, aufzeichnen
+- Processor muss alle Aktivitäten, die er für Controller vorgenommen hat, aufzeichnen
 - Processor muss Vertrag oder legale Grundlage haben in dem beschrieben wird, was, wie lang, warum und welche Daten
 - Processor muss Controller informieren, wenn andere "Sub" Processoren zugezogen werden
 
 ## GDPR Art. 5
 
 Erhobene Daten sollten:
-1. gesetzeskonform, zweckgemäß und transparent evrarbeitet werden
+1. gesetzeskonform, zweckgemäß und transparent verarbeitet werden
 2. nur für einen bestimmen Zweck erhoben werden
 3. adäquat und minimal gehalten werden
 4. genau und aktuell gehalten werden
@@ -81,13 +83,13 @@ Controller sind für die Einhaltung der Compliance zuständig
 
 ## GDPR Art. 6 Legale Erhebung 
 
-Die Verarbeitung ist nur rechtsmäßig, wenn mindestens eine der nachstehenden Bedingungen erlaubt:
+Die Verarbeitung ist nur rechtsmäßig, wenn mindestens eine der nachstehenden Bedingungen erfüllt ist:
 
-- Vertragliche Notwendigkeit: wenn Daten evrarbeitet werden müssen, um einen Vertrag/Dienstleistung zu erfüllen
+- Vertragliche Notwendigkeit: wenn Daten verarbeitet werden müssen, um einen Vertrag/Dienstleistung zu erfüllen
 - Verarbeitung zur Erfüllung einer rechtlichen Verpflichtung erforderlich
 - die Verarbeitung ist erforderlich, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen
 - die Verarbeitung ist für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt
-- die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern
+- die Verarbeitung ist zur Wahrung des berechtigten Interesse des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person eingeschränkt werden
 
 ## GDPR Art. 7 Bedingungen für die Einwilligung
 
@@ -100,14 +102,14 @@ Die Einwilligung muss unter folgenden Bedingungen erfolgen:
 
 Arten der Zustimmung:
 
-- muss Frei gegeben werden
-- muss informiert werden, was Inhalt ist
+- muss frei gegeben werden
+- Betroffener muss informiert werden, was Inhalt ist
 - Klar: Verarbeiter darf keine Verarbeitungs/verwendungs-Zwecke verheimlichen
 - Spezifisch: Zustimmung nur für bestimmen Grund gegeben
 
 ## GDPR Art. 8 Bedingungen für die Einwilligung eines Kindes in Bezug auf Dienste der Informationsgesellschaft
 
-Wird einem kind ein Angebot gemacht, das die Verarbeitung personenbezogener Daten enthält, muss ab dem 16. Lebensjahr das Kind zustimmen. Unter 16 müssen Eltern Erlaubnis geben.
+Wird einem kind ein Angebot gemacht, das die Verarbeitung personenbezogener Daten enthält, muss ab dem 16. Lebensjahr das Kind zustimmen. Unter 16 müssen Eltern Erlaubnis geben
 
 - Mitgliedsstaaten dürfen Grenzen bis 13. Lebensjahr legen
 
@@ -116,7 +118,7 @@ Erwägungsgrund 38 (Besonderer Schutz der Daten von Kindern)
 ## GDPR Art. 12 Transparente Information, Kommunikation und Modalitäten für die Ausübung der Rechte der betroffenen Person
 
 Verantwortlicher trifft geeignete Maßnahmen um der betroffenen Person Inhalter aus Art. 13, 14, 15 in leichter Sprache zu vermitteln.
-Gilt besonders im Fall von Verarbeitunf personenbezogener Daten von Kindern.
+Gilt besonders im Fall von Verarbeitung personenbezogener Daten von Kindern
 
 ## GDPR Art. 13 Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
 
@@ -134,9 +136,9 @@ Gilt besonders im Fall von Verarbeitunf personenbezogener Daten von Kindern.
    - Person widerruft gemäß Art. 6
    - Person legt Widerspruch ein
    - Daten wurden unrechtmäßig verarbeitet
-   - Aufgrund rechtlicher verpflichtung  Löschung erforderlich
+   - Aufgrund rechtlicher Verpflichtung  Löschung erforderlich
 
-2) Wenn verarbeiter daten veröffentlich hat, muss er diese Rückgängig machen und alle Maßnahmen ergreifen, damit dies geschieht
+2) Wenn verarbeiter Daten veröffentlich hat, muss er diese Rückgängig machen und alle Maßnahmen ergreifen, damit dies geschieht
 
 3) 1 und 2 gelten nicht, wenn einer oder mehrere der folgenden Gründe zutrifft:
 
@@ -166,7 +168,7 @@ Gilt besonders im Fall von Verarbeitunf personenbezogener Daten von Kindern.
 
 1. Meldung relevanter Vorfälle binnen 72 Stunden an Behörde
 2. Verantwortlichen informieren
-3. Alle den VOrfall betreffende relevante Informationen liefern
+3. Alle den Vorfall betreffende relevante Informationen liefern
 
 ## GDPR Art. 34 Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person
 
@@ -182,15 +184,15 @@ Gilt besonders im Fall von Verarbeitunf personenbezogener Daten von Kindern.
 
 ## GDPR Art. 35 Datenschutz-Folgenabschätzung
 
-1) Wenn hohes Risiko vorlieft, muss vorher Abschätzung der Folgen/Auswirkungen vorgenommen werden
+1) Wenn hohes Risiko vorliegt, muss vorher Abschätzung der Folgen/Auswirkungen vorgenommen werden
 2) Einbeziehung Datenschutzbeauftragter
 3) Besonders wichtig bei Art.9 (spezielle Kategorien), Strafvollzug
 4) Liste durch Aufsichtsbehörde, die bei Folgeabschätzung abgearbeitet werden muss
 
 Folgeabschätzung muss enthalten:
 
-- wsystematische Beschreibung der geplanten Arbeitsvoprgänge
-- Bewerbung Notwenidkeit und Verhältnismäßigkeit
+- systematische Beschreibung der geplanten Arbeitsvorgänge
+- Bewerbung Notwendigkeit und Verhältnismäßigkeit
 - Bewertung Risiken
 - Abhilfemaßnahmen
 
@@ -204,13 +206,13 @@ Folgeabschätzung muss enthalten:
 
 1) Datenschutzbeauftragter muss existieren, wenn:
    1) Behörde
-   2) Umfangreiche, Systematische Verarbeitung
+   2) Umfangreiche, Systematische Verarbeitung vorliegt
    3) Besondere Kategorien
 2) Teilkonzerene können gemeinsamen Datenschutzbeauftragten haben
 3) Bei Behörden nach Zweck gemeinsamer Datenschutzbeauftragter
 4) Muss Qualifikationen vorweisen können
 5) Intern oder extern
-6) Wird AUfsichtsbehörde kommuniziert
+6) Wird Aufsichtsbehörde kommuniziert
 
 ## GDPR Art. 38 Stellung des Datenschutzbeauftragten
 
@@ -234,8 +236,8 @@ Folgeabschätzung muss enthalten:
 
 ## GDRP vs. LGPD (Brasilien)
 - Regularien ähnlich zu GDPR
-- Beide haben Datenschutzbeuftragten
-- GDPR definiert Kriterien für Datenschutzbeuuftragten
+- Beide haben Datenschutzbeauftragten
+- GDPR definiert Kriterien für Datenschutzbeauftragten
   - LGPD fordert in jedem Fall unabhängig von Kriterien
 - LGPD hat Skala für Risiken
 - LGPD gibt keine Fristen für das Melden von Vorfällen vor
@@ -244,11 +246,11 @@ Folgeabschätzung muss enthalten:
 ## GDRP vs. RUSSIAN FEDERATION FEDERAL LAW
 - Keine Unterscheidung zwischen Controller und Processor
 - Datenschutzbeauftragter darf nicht extern sein
-- Registrierung aller Verarbeitungen von Roskomnadzor
+- Registrierung aller Verarbeitungen von Roskomnadzor (Föderaler Dienst für die Aufsicht im Bereich der Kommunikation, Informationstechnologie und Massenkommunikation)
 - Verarbeitung von persönlichen Daten darf nur in Russland erfolgen
 - Keine Spezifizierung über Menge und Speicherungs Dauer
 - Keine Einschränkung durch Risiko solange ausreichend geschützt
-- Schutzmaßnahmen müssen zertifizierts sein
+- Schutzmaßnahmen müssen zertifiziert sein
 - Schwere Konsequenzen
 
 ## GDPR vs. Thai Personal Data Protection Act (PDPA)
@@ -256,16 +258,16 @@ Folgeabschätzung muss enthalten:
 - Ähnlich zu GDPR
 - Schriftliche Zustimmung notwendig, GDPR nur implizit
 - Kinder ab 10 
-- Recht auf Löschung nur wenn Verarbeiter nicht compliant, oder nicht mehr für den Zweck der verarbeitung benötigt
-- Widerruf: erhobene Daten weiterhin, jedoch keine neuen
+- Recht auf Löschung nur wenn Verarbeiter nicht compliant ist, oder die Daten nicht mehr für den Zweck der Verarbeitung benötigt werden
+- Widerruf: erhobene Daten dürfen weiterhin verarbeitet werden, jedoch keine neuen
 - Niedrigere Strafen
 - Datenschutzbeauftragter nur wenn:
   - Großer Umfang
-  - Kernaktivität Verarveitung sensible Daten
+  - Kernaktivität Verarbeitung sensibler Daten
 
 ## GDPR vs. USA
 
-- nur kleine Grundlagen von datenschutz für US Bürger, für nicht US Bürger gar keine
+- nur kleine Grundlagen von Datenschutz für US Bürger, für nicht US Bürger gar keine
 - Schutz der Privatsphäre soll durch Gesetze geschützt werden
   - FISMA: IT Sec und Protection Programm für Behörden
   - HIPAA: Schutz von Gesundheitsdaten
@@ -278,7 +280,7 @@ Folgeabschätzung muss enthalten:
 
 ## GDPR vs. China Personal Information Protection Law (PIPL)
 
-PIPL soll rahmen schaffen, wie Unternehmen weltweit, in China als auch außerhalb, personenbezogene Daten verarbeiten, sammeln und weitergeben
+PIPL soll Rahmen schaffen, wie Unternehmen weltweit, in China als auch außerhalb, personenbezogene Daten verarbeiten, sammeln und weitergeben
 
 Rechte für Personen
 - Recht zu Wissen, was Unterhemen mit den Daten macht und machen wird
@@ -319,7 +321,7 @@ Grundsätze für Verarbeitung
 - Verarbeitung nach Zweck der Erhebung :arrow_right: GDPR
 - Korrekt und auf dem aktuellen Stand :arrow_right: GDPR
 - Dauer nur dem Zweck :arrow_right: GDPR
-- Betroffene können agmessene Privatsphäre erwarten
+- Betroffene können angemessen Privatsphäre erwarten
 - Datenschutzhinweis kann gefordert werden
 
 Einwilligung:
@@ -331,10 +333,10 @@ Einwilligung:
 Keine Einwilligung erforderlich wenn:
 
 - Durch Gesetz erforderlich :arrow_right: GDPR
-- Daten eh öffentlich zugänglich :arrow_right: GDPR
+- Daten von vornherein öffentlich zugänglich :arrow_right: GDPR
 - Pseudonymisiert
 - Pflichten Rechtsverhältnis :arrow_right: GDPR
-- Notfallsituation
+- Notfallsituation :arrow_right: GDPR
 - Medizinisch :arrow_right: GDPR
 - Justiz :arrow_right: GDPR
 
