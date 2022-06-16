@@ -1,7 +1,7 @@
 # 1 ISO Voraussetzungen, Policies, Organisation, Governance Model
 
 Ist ISO eine IT Rolle?
-> der ISO sollte innerhalb der IT-Abtielung positioniert sein. So ist eine effektive Zusammenarbeit mit der IT-Abteilung möglich
+> der ISO sollte innerhalb der IT-Abteilung positioniert sein. So ist eine effektive Zusammenarbeit mit der IT-Abteilung möglich
 
 Was ist die Verbindung zwischen ISO und der Gesetzgebung?
 > Der ISO hat die Aufgabe, rechtliche Rahmenbedingungen der Datenverarbeitung zu kontrollieren.
@@ -11,10 +11,9 @@ Was ist die Verbindung zwischen ISO und der Gesetzgebung?
 1. Niedrig: wenige Angriffe, keine Indikatoren für Eindringlinge oder Attacken
 2. Gesichert: normales Risiko. Keine Indikatoren für Eindringlinge oder Attacken
 3. Erhöht: Signifikantes Risiko: Mäßige Anzahl an Angriffen. Keine Anzeichen für Eindringlinge oder direkte Attacken
-4. Hoch: hohes Risiko: hohe Anzahl an gemeldeten Angriffen. Keine Anzeichen für Eindringlinge oder direkte Attacken
+4. Hoch: Hohes Risiko: hohe Anzahl an gemeldeten Angriffen. Keine Anzeichen für Eindringlinge oder direkte Attacken
 5. Schwer: schweres Risiko. Anzeichen oder starker Verdacht für Eindringlinge
 
----
 
 ## Schwächen
 
@@ -28,7 +27,7 @@ Was ist die Verbindung zwischen ISO und der Gesetzgebung?
 
 ### Cyber Security
 1. Schwachstellen in Software :arrow_right: nicht angemessen sicher genug für Gefahrenlage
-2. Unangemessener Schutz gegen Maleware :arrow_right: geringe Erkennungsrate
+2. Unangemessener Schutz gegen Malware :arrow_right: geringe Erkennungsrate
 3. Identifikation und Authentifizierung fehlend :arrow_right: Passwörter alleine sind nicht sicher genug
 4. Unsichere Webseiten
 5. Mobilgeräte Nutzung :arrow_right: Generierung zusätzlicher Angriffsvektoren (immer an, fehlende Updates, Nutzung unsicherer Netze)
@@ -38,7 +37,6 @@ Was ist die Verbindung zwischen ISO und der Gesetzgebung?
 9. Manipulierte Technologien
 10. Fake News
 
----
 
 ## Operational Excellence (OPEX)
 - Mindset der gewisse Prinzipien und Tools umfasst, um eine *Culture of Excellence* im Unternehmen einzuführen.
@@ -48,7 +46,6 @@ Zielsetzung:
 
 :arrow_right: Kernprozesse in der Wertschöpfungskette ständig im Hinblick auf Effektivität und Effizienz optimieren. Unterstützt durch die richtige Kombination der Verbesserungsmethoden den kontinuierlichen Verbesserungsprozess.
 
----
 
 ## COBIT (Control Objectives for Information and Related Technology)
 
@@ -56,7 +53,6 @@ International anerkanntes Framework zur IT-Governance und gliedert IT Aufgaben i
 
 :arrow_right: Es wird definiert was umzusetzen ist, nicht wie es umzusetzen ist.
 
----
 
 ## ISMS / Policies
 
@@ -64,7 +60,7 @@ Schritte zur Einführung von ISO 27001:
 1. Management Überzeugen
 2. Verstehen wer in welcher Form betroffen ist. Prozesse und Dokumentationen benötigt
 3. Vorbereitung von z.B. Risiko Analysen, Notfallplänen, Trainings
-4. Implementierung des ISMS inklusive Prozesse und handhabung von Risiken
+4. Implementierung des ISMS inklusive Prozesse und Handhabung von Risiken
 5. Überwachen und Überprüfen der Prozesse, Aktivitäten. Stage 1 Audit, Management Review und kontinuierliche Verbesserung/Anpassung
 6. Zertifizierung. Stage 2 Audit, Management Überprüfung, kontinuierliche Verbesserung
 
@@ -75,8 +71,6 @@ flowchart LR
     id1[Anforderungen \n und \n Standards \n definieren]--> id2[Beteiligte \n ermitteln]--> id3[ISMS Scope \n festlegen] --> id4[GAP Analyse \n durchführen]--> id5[Kosten \n und \n Aufwand \n Schätzung]--> id6[Management \n Erlaubnis \n erhalten] --> id7[Projekt Start]
 ```
 
----
-
 ## Standards
 
 | Standard | Icon | Beschreibung |
@@ -85,11 +79,11 @@ flowchart LR
 | TISAX | <img src="https://portal.enx.com/tisaxlogo" alt="drawing" width="100"/> | TISAX ist Kfz-Branchen-spezifisch. Der Standard betrifft die sichere Verarbeitung von Informationen von Geschäftspartnern, den Schutz von Prototypen und den Datenschutz gemäß Datenschutz-Grundverordnung (DSGVO) für mögliche Geschäfte zwischen Autoherstellern und ihren Dienstleistern oder Lieferanten |
 | BSI Standard 200 | <img src="https://www.bsi.bund.de/_config/richsnippets/logo.jpg?__blob=normal&v=2" alt="drawing" width="100"/> | Erläutert den Aufbau eines Informationssicherheitsmanagementsystems (ISMS). Kompatibel zum ISO -Standard 27001 und berücksichtigt die Empfehlungen der anderen ISO -Standards wie ISO 27002 |
 | KRITIS | <img src="https://www.bsi.bund.de/SharedDocs/Bilder/DE/BSI/Themen/KRITIS/UPK/upk-logo.png?__blob=normal&v=2" alt="drawing" width="100"/> | Standard gültig für Betreiber kritischer Infrastrukturen. Umfasst 9 Sektoren der Kritischen Infrastruktur welche wichtige Bedeutung für das staatliche Gemeinwesen haben und  deren Ausfall oder Beeinträchtigung nachhaltig wirkende Versorgungsengpässe, erhebliche Störungen der öffentlichen Sicherheit oder andere dramatische Folgen haben würde. |
-| IT Sicherheitsgesetz | <img src="https://www.bsi.bund.de/SharedDocs/Bilder/DE/BSI/Themen/KRITIS/UPK/upk-logo.png?__blob=normal&v=2" alt="drawing" width="100"/> | Verbesserung der Sicherheit informationstechnischer Systeme (IT-Sicherheit) in Deutschland und Schutz kritischer Infrastrukturen, welche für das Funktionieren des Gemeinwesens relevant sind | 
+| IT Sicherheitsgesetz | <img src="https://www.bsi.bund.de/_config/richsnippets/logo.jpg?__blob=normal&v=2" alt="drawing" width="100"/> | Verbesserung der Sicherheit informationstechnischer Systeme (IT-Sicherheit) in Deutschland und Schutz kritischer Infrastrukturen, welche für das Funktionieren des Gemeinwesens relevant sind | 
 
----
 
 ## ISMS Scope festlegen
+
 - Geographischer Scope
 - Produktionsstandorte
 - Organisationen
@@ -97,11 +91,9 @@ flowchart LR
 - Verfahren
 - Prozesse
 
----
-
 ## GAP Analyse
 
-Zeigt folgende Aspekte
+Zeigt folgende Aspekte:
 
 - Status der implementierten Maßnahmen
 - Verbesserungsbedarf
@@ -113,11 +105,10 @@ Soll folgende Aspekte liefern:
 - benötigte Maßnahmen
 - Benötigte Mittel: Zeit + Geld
 
----
-
 ## Informations Sicherheits Policies (ISO 27001, 5.2, A.5) :hammer:
 
 ### 5.2 Policy
+
 Das Management soll eine Informationssicherheitsrichtlinie einführen, die:
 
 <ol type="a">
@@ -134,7 +125,6 @@ Die Richtlinie sollte:
   <li>interessierten Betroffenen zugänglich gemacht werden</li>
 </ol>
 
----
 
 ## Informations Sicherheits Policies (BSI 200-1, 7.1) :hammer:
 
@@ -145,13 +135,11 @@ Die IT Sicherheitsziele sollten bei jedem Sicherheitsprozess festgelegt werden.
 Folgende Aspekte sollten bei der Entwicklung der Sicherehits Strategie berücksichtigt werden:
 
 - Ziele der Unternehmung oder Rolle der Behörde
-- Rechtliche Anforderungen und Regulairen wie z.B. Datenschutz
+- Rechtliche Anforderungen und Regularien wie z.B. Datenschutz
 - Kunden Anforderungen und existierende Verträge
 - Interne Rahmenbedingungen
 - IT gestützte Business Prozesse und Aufgaben
 - Globale Bedrohungen und Gefahren durch Sicherheitsrisiken
-
----
 
 ## ISMS schematischer Aufbau
 
@@ -167,7 +155,6 @@ Folgende Aspekte sollten bei der Entwicklung der Sicherehits Strategie berücksi
   - Pentest Reports
   - Log Dateien
 
----
 
 ## Zielsetzung, ISO27001, 6.2 :hammer:
 
@@ -195,11 +182,10 @@ Wichtigste IT Schutzziele:
 
 - Vertraulichkeit: Daten sollten vertaulich verarbeitet werden und nur von autorisierten Nutzern eingesehen werden können. :arrow_right: Kompromitierungsbeispiel: Laptop geklaut, Passwort Diebstahl
 - Integrität: Daten sollen korrekt und vollständig sein. Änderungen müssen nachvollzogen werden können. :arrow_right:  Kompromitierungsbeispiel: Ransomware → Die Daten werden verändert
-- Verfügbarkeit: Informationstechnische Systeme müssen durchgängige Verfügbarkeit der Daten gewährleisten. Festlegung des Rahmens durch Unternehmen in Service-Level-Agreement. :arrow_right: DDoS Angriff
-
----
+- Verfügbarkeit: Informationstechnische Systeme müssen durchgängige Verfügbarkeit der Daten gewährleisten. Festlegung des Rahmens durch Unternehmen in Service-Level-Agreement :arrow_right: DDoS Angriff
 
 ## Informationssicherheit Schutzziele
+
 1. Informationen sind verfügbar, wenn sie benötigt werden
 2. Vertrauliche Informationen müssen angemessen behandelt werden
 3. Datenabfluss muss verhindert werden
@@ -208,12 +194,10 @@ Wichtigste IT Schutzziele:
 6. Das Recht auf informationelle Selbstbestimmung muss gegeben sein
 7. Einhaltung lokaler Richtlinien und Gesetze
 
----
-
 ## Informationssicherheits Prinzipien
 
 1. CIA
-2. InfoSec Franework nach ISO27001 ausgerichtet
+2. InfoSec Franework nach ISO 27001 ausgerichtet
 3. Anpassung und Skalierung nach Bedarf
 4. Klar definierte Verantwortlichkeiten
 5. Vorhandensein des Bewussteins für InfoSec
@@ -222,11 +206,10 @@ Wichtigste IT Schutzziele:
 8. Regelmäßige Audits notwendig
 9. Management muss Unterstützung zeigen und motivieren, Verbesserungsvorschläge einzureichen
 
----
-
 ## Organisation von Informationssicherheit (ISO 27001, 5.3) :hammer:
 
 ### 5.3
+
 Führungsebene muss sicherstellen, dass Verantwortlichkeiten und Pflichten zugewiesen und kommuniziert sind.
 
 Soll Verantwortlichkeiten zuweisen für:
@@ -235,8 +218,6 @@ Soll Verantwortlichkeiten zuweisen für:
   <li>Sicherstellung, dass InfoSec Anforderungen dieses internationalen Standards entspricht</li>
   <li>Berichterstattung über Performance der InfoSec an Führungsebene</li>
 </ol>
-
----
 
 ## Organisation von Informationssicherheit (BSI 200, 7.2) :hammer:
 
@@ -248,9 +229,7 @@ Bei der Planung der Rollen, müssen folgende Regeln beachtet werden:
 
 1. Die Verantwortung für InfoSec verbleibt in der Führungsebene
 2. Es muss eine koordinierende Person geben (ISO)
-3. Jeder Mitarbeiter ist für die Informationssicherheit an der eigenen Arbeitsstelle verantwortlich (beachten der do's and dont's in bezug auf InfoSec)
-
----
+3. Jeder Mitarbeiter ist für die Informationssicherheit an der eigenen Arbeitsstelle verantwortlich (beachten der Do's and Dont's in Bezug auf InfoSec)
 
 ## Organisation von Informationssicherheit
 
@@ -261,7 +240,7 @@ flowchart LR
 1. 
    1. Was ist benötigt
    2. In welchem Kontext?
-   3. in welcher Form?
+   3. In welcher Form?
 2. 
    1. Ähnlichkeiten von Anforderungen
    2. Widersprüchlichkeiten von Anforderungen
@@ -270,23 +249,17 @@ flowchart LR
    1. Einen Demand starten und abarbeiten
    2. Management Erlaubnis einholen
    3. Strukturen schaffen, Prozesse, Tools, Verwaltung
-   4. Informieren und Trainieren von Leuten
-
----
+   4. Informieren und Trainieren von Mitarbeitern
 
 ## Information Security Management Board (ISMB)
 
 ![ismb](img/ismb.png)
-
----
 
 ## Chief Information Security Officer (CISO)
 
 CISO interagiert mit allen relevanten Teilbereichen.
 
 ![ciso](img/ciso.png)
-
----
 
 ## ITIL
 
@@ -298,15 +271,13 @@ Ist die 3. Version der ITIL Service Operation und betrifft alle Aktivitäten und
 
 - Request Fulfilment
   - Abbildung standardisierter Prozesse :arrow_right: Anlaufstelle für Anfragen, Beschwerden, ...
-- Event management
+- Event Management
   - Event ist Ereignis, das in IT ausgelöst wurde. Event muss zur Lösung an Servicedesk weitergeleitet werden
 - Incident Management
   - Störungen werden nach vereinbarten Service Levels bearbeitet
 - Problem Management 
   - Hier werden dem Incident-Management temporäre Lösungen (workarounds) zur Verfügung gestellt
-  - befasst es sich mit der Störungsvermeidung (proaktives Management)
-
----
+  - Befasst es sich mit der Störungsvermeidung (proaktives Management)
 
 ### ITIL v4
 
@@ -322,15 +293,11 @@ Ganzeinheitlicher Ansatz für Management
 - Partner und Lieferanten
 - Wertströme und Prozesse
 
----
-
 ### Vergleich ITIL 4 im Vergleich zu ITIL 3
 
 - Continual Improvement: beide
 - Identity und Access Management: beide
 - Definition von Maßnahmen und Berichterstattungen: nur in ITIL 4
-
----
 
 ## ISO20000
 
