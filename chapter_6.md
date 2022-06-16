@@ -16,14 +16,14 @@ Informationssicherheit ist in allen Teilbereichen und Projekten integriert
 
 Kommunikation von hoher Wichtigkeit
 
-- Fehlende Kommunikation und Nichtwissen führt zu Sicherheitslücken
+- Fehlende Kommunikation und Nichtwissen führt zu Sicherheitslücken.
 Um Konsistenz und Kontionuierlichkeit des gesamten Sicherheitsprozesses zu gewährleisten ist es notwendig, den gesamten Prozess zu dokumentieren.
 
 ## Incident Management ISO 27035 :hammer:
 
 ### ISO 27035-1
 
-Beschreibt Konzepte und Prinzipien von InfoSec Management
+Beschreibt Konzepte und Prinzipien von Incident Management
 
 ### ISO 27035-2
 
@@ -34,7 +34,7 @@ Beschreibt Richtlinien zur Planung und Vorbereitung für Incident Response
 3. Incident Management Planung erstellen
 4. Incident Repsonse Team aufstellen
 5. Technischen Support leisten
-6. Awareness und Traings Maßnahmen
+6. Awareness und Trainings Maßnahmen
 7. Testen
 8. Lessons learnt
 
@@ -87,7 +87,7 @@ Beispiele:
   - SIEM (Security Information an Event Management)
   - Application Specify Alerting
 
-:arrow_right: Itegration des Incident Managements in ServiceDesk
+:arrow_right: Integration des Incident Managements in ServiceDesk
 
 ## Honeypot
 
@@ -103,7 +103,7 @@ Beispiele:
 
 ## InfoSec Incident Management (ISO 27001, A.17) :hammer:
 
-Ziel: Informationssicherheit muss in Business Management Prozess des Unternehmens eingebunden sein
+Ziel: Informationssicherheit muss in Business Management Prozess des Unternehmens eingebunden sein.
 
 ## Incident Management (BSI 200) :hammer:
 
@@ -116,11 +116,13 @@ Schichtenmodell:
   - Answendungen
   - Netze, Infrastruktur
 
-Ist genutz um spezielle Gefahren und benötigte Herausforderungen gebündelt abzubilden
+Ist genutz, um spezielle Gefahren und benötigte Herausforderungen gebündelt abzubilden
 
 ## Business Continuity Management (ISO 22301)
 
-Ziel: Business muss am Laufen gehalten werden
+Vorausschauende Strategien und leistungsfähige Notfallpläne sichern im Krisenfall den Fortbestand und die Geschäftsfähigkeit Ihres Unternehmens.
+
+Ziel :arrow_right: Business muss am Laufen gehalten werden
 
 - Priorität liegt auf Verfübarkeit
 - SLAs zu Ausfallzeiten
