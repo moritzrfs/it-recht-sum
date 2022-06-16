@@ -30,6 +30,22 @@
 
 :arrow_right: Test Tools
 
+Ansätze nach OWASP:
+
+- Input Validation
+- Output Encoding
+- Authentication and Password Management
+- Session Management
+- Access Contro
+- Cryptographic Practices
+- Error Handling and Logging
+- Data Protection
+- Communication Security
+- System Configuration
+- Database Security
+- File Management
+- Memory Management
+
 ## Supplier Management und Auswirkung auf InfoSec (Outsourcing)
 
 - Confidentiality
