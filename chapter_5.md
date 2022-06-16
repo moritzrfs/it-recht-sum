@@ -9,7 +9,7 @@
   - Sache der EU-Länder diese zu verwirklichen
   - Bsp.: EU-Richtlinie Verbraucherrechte
 - Beschlüsse
-  - verbidnlich und unmittelbar anzuwenden, an den sie gerichtet sind  (Land oder Unternehmen)
+  - verbindlich und unmittelbar anzuwenden, durch Instanz an den sie gerichtet sind (Land oder Unternehmen)
   - Bsp.: Terrorismus Bekämpfung
 
 ## Internationale Sanktionen
@@ -18,7 +18,7 @@ Politische und ökonomische Entscheidung gegen Staaten oder Organisationen mit d
 
 - Schutz nationaler Sicherheit
 - Internationales Recht zu schützen
-- Verteodigung des internationalen Friedens
+- Verteidigung des internationalen Friedens
 
 ## Relevanteste ISO Gesetze
 
@@ -28,13 +28,14 @@ Politische und ökonomische Entscheidung gegen Staaten oder Organisationen mit d
 | Telekommunikationsgesetz (TKG) | Regulierung des Wettbewerbs im Bereich der Telekommunikation |
 | Betriebsverfassungsgesetz (BetrVG) | Gewährleistung von betrieblichen Interessenvertretung von AG und AN |
 | BSI-Gesetz | Regelungen in Bezug auf das Bundesamt für Sicherheit in der Informationstechnik |
-| Bürgerliches Gesetzbuch (BGB) | Regleung der Rechtsbeziehung zwischen Privatpersonen. Abgrenzung gegenüber dem öffentlichen Recht |
+| Bürgerliches Gesetzbuch (BGB) | Regelungen der Rechtsbeziehung zwischen Privatpersonen. Abgrenzung gegenüber dem öffentlichen Recht |
 | Strafgesetzbuch (StGB) | Benennung Rechtsordnung, Verhalternsweisen, Strafmaß |
 
-## Geschäftsgeheimnisgesetz :hammer:
+## Geschäftsgeheimnisgesetz (GeschGehG) :hammer:
 
-### §1 Anwendungsbereich: 
-- Schutz unerlaubter Erlangung, Nutzung, Offenlegung
+### §1 Anwendungsbereich:
+
+- Schutz gegen unerlaubter Erlangung, Nutzung, Offenlegung
 - Öff. Recht. geht vor
 - Ausnahmen:
   - Berufs-, Strafrecht
@@ -60,9 +61,9 @@ Rechtsverletzendes Produkt: Produkt, dessen Merkmale, Funktionsweise, ... auf re
 Geschäftsgeheimnis darf erlangt werden durch:
 
 - Eigene Wertschöpfung
-- Beobachten, Untersuchen, Testen, ... von Produkt das:
-  - öffentlich gemacht wirde
-  - sich im Rechtsmäßigen Besitz des Erlangers befindet
+- Beobachten, Untersuchen, Testen, ... von Produkt welche:
+  - öffentlich gemacht wurden
+  - sich im Rechtsmäßigen Besitz des Erlangers befinden
 - durch Gesetz
 
 ### §4 Handlungsverbote
@@ -73,11 +74,11 @@ Geschäftsgeheimnis darf nicht erlangt werden durch:
 
 Geschäftsgeheimnis darf nicht offenlegen wer:
 
-- Unrechtmäßig erlangt hat
+- es unrechtmäßig erlangt hat
 - gegen Verpflichtung der Nutzung des Geheimnisses verstößt
 - gegen Verpfichtung verstößt, Geheimnis nicht offenzulegen
 
-Geschäftsgeheimnis darf nicht offengelegt werden, wenn über andere Person erlangt und zzum Zeitpunkt des Erlangens offensichtlich war, dass andere Person Geheimnis entgegen Absatz 22 genutzt oder offengelegt hat.
+Geschäftsgeheimnis darf nicht offengelegt werden, wenn es über andere Person erlangt wurde und zum Zeitpunkt des Erlangens offensichtlich war, dass andere Person Geheimnis entgegen Absatz 22 genutzt oder offengelegt hat.
 
 ### §5 Ausnahmen
 
@@ -85,11 +86,11 @@ Durch berechtigtes Interesse:
 
 - Recht freie Meinungsäußerung
 - Ausdruck rechtswidrige Handlung
-- Arbeitnehmer gegenüber Arbeitnehmervertretung zuur Aufgabenerfüllung (Betriebsrat)
+- Arbeitnehmer gegenüber Arbeitnehmervertretung zur Aufgabenerfüllung (Betriebsrat)
 
 Neuerungen:
 
-- Erforderlichkeit angemessene Geheimhaltungsmaßnahmen zu treffen, damit ein rechtlich geschütztes Geheimnis vorliegt
+- Erforderlichkeit angemessene Geheimhaltungsmaßnahmen zu treffen, damit ein **rechtlich geschütztes Geheimnis vorliegt**
 - das allgemeine öffentliche Interesse zu schützen hebelt GeschGeh aus
 
 ## Telekommunikationsgesetz (TKG) :hammer:
@@ -119,7 +120,7 @@ Brief-, Post-, und Fernmeldegeheimnis sind unverletzlich
 
 - jeder Diensteanbieter ist zur Geheimhaltung verpflichtet
 - Es geht um Inhalt der Kommunikation und wer daran beteiligt ist
-- Geheimdineste und Ermittlungsbehörden dürfen Überwachen
+- Geheimdineste und Ermittlungsbehörden dürfen überwachen
 
 ### §89 Abhörverbot, Geheimhaltungspflicht der Betreiber von Empfangsanlagen
 
@@ -131,7 +132,7 @@ Brief-, Post-, und Fernmeldegeheimnis sind unverletzlich
 
 - Freiheitsstrafen von bis zu 2 Jahren oder Geldstrafe können angesetzt werden
   - Wer abhört
-  - Oderr Illegale Anlage besitz
+  - oder Illegale Anlage besitz
 - Bei Fahrlässigkeit bis 1 Jahr oder Geldstrafe
 
 ## Telemediengesetz (TMG) :hammer:
@@ -147,7 +148,7 @@ Grundsätze:
 - Bei rechtlicher Anordnung müssen illegale Inhalte entfernt werden
 - Rechtliche Rahmenbedingungen für Telemedien
 - Zentrale Vorschrift des Internetrechts
-- Copyright oder geistiges Eigentum Inhalt der Daten, kann betroffener Sperrung verlangen
+- Bei Copyrightverstößen oder Verstoß gegen geistiges Eigentum kann betroffener Sperrung verlangen
 
 ### §8 Durchleitung von Informationen
 
@@ -156,7 +157,7 @@ Diensteanbieter hat keine Verantowrtung über die Daten, solange er diese nicht 
 ### §9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
 
 Zwischenspeicherung ist erlaubt, wenn sie dem Zweck dient, Übermittlung fremder Informationen an andere Nutzer effizienter zu gestalten.
-Nicht haftbar für Inhalte, so lange sie diese nicht verändert haben
+Nicht haftbar für Inhalte, so lange diese nicht verändert wurden
 
 ### §10 Speicherung von Informationen
 
@@ -168,7 +169,7 @@ Müssen jedoch Tätig werden, wenn sie über Rechtswidrigkeit informiert werden.
 
 ### §87 Mitbestimmungsrechte
 
-Betriebsrat hat Recht mitzubestimmen, wenn Einführung und Anwendung von technischen Einrichtungen, die dazu bestimmt sind, das Verhalten oder die Leistung der Arbeitnehmer zu überwachen, eingeführt werden soll
+Betriebsrat hat Recht mitzubestimmen, wenn Einführung und Anwendung von technischen Einrichtungen, die dazu bestimmt sind, das Verhalten oder die Leistung der Arbeitnehmer zu überwachen
 
 ## BSI Gesetz (BSIG)
 
@@ -179,13 +180,13 @@ Das Bundesamt ist zuständig für die Informationssicherheit auf nationaler Eben
 ### §3 Aufgaben des Bundesamtes
 
 - Schutz der Netze des Bundes, Erkennung und Abwehr von Angriffen auf die Regierungsnetze
-- Prüfung, Zertifizierung und Akkreditierung von IT-Produkten und -Dienstleistungen
-- Warnung vor Schadprogrammen oder Sicherheitslücken in IT-Produkten und -Dienstleistungen
+- Prüfung, Zertifizierung und Akkreditierung von IT-Produkten und - Dienstleistungen
+- Warnung vor Schadprogrammen oder Sicherheitslücken in IT-Produkten und Dienstleistungen
 - Sicherheit in der Informationstechnik Kritischer Infrastrukturen
 
 ### §3a Verarbeitung personenbezogener Daten
 
-Verarbeitung personenbezogener Daten durch Bundesamt ist zulässig, für öffentl. Interesse Aufgaben notwendig ist.
+Verarbeitung personenbezogener Daten durch Bundesamt ist zulässig, es für öffentl. Interesse von Interesse ist
 
 ### §4 Zentrale Meldestelle für die Sicherheit in der Informationstechnik des Bundes
 
@@ -197,7 +198,7 @@ Verarbeitung personenbezogener Daten durch Bundesamt ist zulässig, für öffent
 
 ### $826 Sittenwidrige vorsätzliche Schädigung
 
-Wer anderem Schaden zufügt und gegen gute Sitten verstößt, muss Geschädigtem Schadensersatz zahlen
+Wer anderem Schaden zufügt und gegen gute Sitten verstößt, muss Geschädigtem Schadensersatz zahlen (z.B. Bei DDOS Angriff)
 
 ### § 823 Schadensersatzpflicht
 
@@ -211,12 +212,12 @@ Beispiel: öffentl. WLAN
 ### § 201 Verletzung der Vertraulichkeit des Wortes
 
 - Nichtöffentlich Gesprochenes Wort darf nicht aufgenommen werden
-- Anhören solcher Aufnahmen
+- Anhören solcher Aufnahmen verboten
 - Verbreiten solcher Aufnahmen ebenfalls verboten
 
 ### § 201a Verletzung des höchstpersönlichen Lebensbereichs und von Persönlichkeitsrechten durch Bildaufnahmen
 
-Fotos in Wohnung oder privaten Bereichen (geschütztem Raum) verboten
+Anfertigen von Fotos in Wohnung oder privaten Bereichen (geschütztem Raum) verboten
 
 ### § 202 Verletzung des Briefgeheimnisses
 
@@ -224,14 +225,14 @@ Fotos in Wohnung oder privaten Bereichen (geschütztem Raum) verboten
 
 ### § 202b Abfangen von Daten
 
-Wie Ausspähen , jedoch unter Anwendung dafür vorgesehener technischer Mittel
+Wie Ausspähen, jedoch unter Anwendung dafür vorgesehener technischer Mittel
 
 ### § 202c Vorbereiten des Ausspähens und Abfangens von Daten (Hackerparagraph)
 
 Vorbereitung durch:
 
 - Verschaffen von Passwörtern oder Sicherheitscodes
-- Computerprogramme, deren Zweck oben genanntes ist
+- Besitz und Nutzen von Computerprogrammen, deren Zweck oben genanntes ist
 
 ### § 149 Vorbereitung der Fälschung von Geld und Wertzeichen
 
