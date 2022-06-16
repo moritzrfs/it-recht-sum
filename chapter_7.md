@@ -9,7 +9,7 @@
 
 Angriffe die von einer Nation ausgehen, um:
 
-- intellektuelles EIgentum zu stehlen
+- intellektuelles Eigentum zu stehlen
 - zu desinformieren
 - Propagana zu verbreiten
 - zu infiltrieren
@@ -17,14 +17,24 @@ Angriffe die von einer Nation ausgehen, um:
 Meist ausgehend in Form von:
 
 - Watering Holes (schadcode auf legitimen Webseiten)
-- Phising
+- Phishing
 - Zero Day Exploits
 - Malware
 
 ## Crime as a Service
 
+Cybercrime ist die dynamischste Form von Kriminalität, weil sie sich ständig verändert.
+
+- Eigener Wirtschaftszweig mit eigenen Wertschöpfungsketten
 - Professionelle Aufstellung von Angreifern (gut organisiert)
+  - Entwicklung
+  - Produktmanagement
+  - technischer Support
+  - Marketing
+  - Vertrieb
   - Individuelle Angriffe (high skilled)
+
+![crime-as-a-service](img/crime-as-a-service.png)
 
 ### Säule 1 Foren und Jabber Server
 
@@ -35,7 +45,7 @@ Meist ausgehend in Form von:
 
 - Gründung oder Teilnahme an Unternehmung, deren Zweck auf Begehung von Straftaten ausgerichtet ist
 
-## 100b StGB Olnine-Durchsuchung :hammer:
+## 100b StGB Online-Durchsuchung :hammer:
 
 - Durchsuchung bei speziellen Anlässen/ Schwere Straftaten erlaubt
 - Ohne Wissen des Betroffenen
@@ -67,7 +77,7 @@ Meist ausgehend in Form von:
 ### Säule 5: Malware-Crypting
 
 - Entwicklung von gut getarnter Malware, durch Verschlüsselung oder Verfremdung des Codes
-- SOllen nicht erkannt werden
+- Sollen nicht erkannt werden
 
 ### Säule 6: Counter Antivirus-Service
 
@@ -86,7 +96,7 @@ Meist ausgehend in Form von:
 
 ### Säule 9: Exchanger
 
-- Geldwäsche im dgitalen Raum
+- Geldwäsche im digitalen Raum
 - Verschleierung von Zahlungen
 
 ## Top 3 Tatmittel im Internet
@@ -105,4 +115,3 @@ Ziel: Angriffsmodelle, Methoden und Risikominderung zu verstehen
 Tactics :arrow_right: Gründe für Angriff erfragen
 Techniques :arrow_right: wie wurde vorgegangen
 Sub-Techniques :arrow_right: spezifische Beschreibung
-
