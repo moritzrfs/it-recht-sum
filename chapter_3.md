@@ -54,7 +54,7 @@ Das Unternehmen soll einen Plan zum Umgang mit Risiken einführen
 ## Umgang mit Risiken (ISO 31000/ ISO 27005) :hammer:
 
 - Risiko Modifizierung
-- Risiko Zurückhaltung
+- Risiko akzeptieren
 - Risiko Vermeidung
 - Risiko Teilung 
 
