@@ -35,4 +35,33 @@ Bei erfolgreichem Angriff
 
 Unterschied herkömmlicher Konzepte :arrow_right: Dienste, Nutzer, Anwendungen werden im eigenen Netzwerk als vertrauenswürdig eingestuft
 
+## Zero Trust gebote
+
+- Vertrauen ausdrücklich bestätigen (mittels Informationen und Telemetrie)
+- Moderne Arbeit ermöglichen (Enable, nicht blockieren)
+- Durchgänige Sicherheit ermöglichen (Sicherheit in Unternehmenskultur, Normen und Prozesse integrieren)
+- Assets nach Wert absichern (Angemessener Schutz von Business Assets in Bezug auf ihren Business Wert und das erwartete Risiko)
+- Einführung von Asset-bezogenen Kontrollen (Präzise Kontrollen auf Assets abgestimmte und nicht nur Infrastrukturweite standard Kontrollen)
+- Einfache und Nachhaltige Sicherheit (Maßnahmen sollten so einfach wie möglich gehalten werden und dabei gleichzeitig paraktisch, skalierbar und nachhaltig sein)
+- Möglichst niedrige Rechte verwenden (Zugriff nur wenn wirklich benötigt vergeben, wenn nicht mehr benötigt wieder entziehen)
+- Dauerhaft verbessern (permanent weiterentwicklen und verbessern da sich IT permanent verändert)
+- Fundierte Entscheidungen treffen (Entscheidung auf Grundlage der bestmöglichen Informationen treffen)
+
+## Microsoft Zero Trust Prinzipien
+
+- **Explizit verifizieren**
+  - Benutzer Identität und Location
+  - Geräte Zustand (Compliance)
+  - Kontext, in dem Informationen abgerufen werden
+  - Daten Klassifikationen
+  - Jegliche Anomalien
+- **Zugriff mit geringsten Rechten verwenden**
+  - Just in Time (JIT)
+  - Just enough Access (JEA)
+  - Risikobasierte adaptive Policy
+- **Schwachstellen annehmen**
+  - Segmentierung von Netzwerken, Benutzern, Geräten, Services, ... vornehmen
+  - Sitzungen Ende-zu-Ende verschlüsseln
+  - Analysen zu Gefahrenerkennung verwenden und Verteidigung verbessern zu können
+
 [Gute Quelle](https://www.security-insider.de/was-ist-ein-zero-trust-modell-a-752389/)
