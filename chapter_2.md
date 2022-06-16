@@ -8,13 +8,11 @@
 | NIST SP 800-53 | Zusätzliche Hintergrundinformationen, Gültigkeit, Implementierungshilfen, Bewertung |
 | NIST Cybersecurity Framework | Freiwilliges Framework mit den Inhalten von Standards, Guidelines und Best-Practice Ansätzen zur Handhabung von Cyber Security Risiken |
 | TISAX | Der Standard betrifft die sichere Verarbeitung von Informationen von Geschäftspartnern, den Schutz von Prototypen und den Datenschutz gemäß Datenschutz-Grundverordnung (DSGVO) für mögliche Geschäfte zwischen Autoherstellern und ihren Dienstleistern oder Lieferanten | 
-| TPISR | PISR erfüllt damit eine ähnliche Rolle für US-Firmen wie TISAX in der deutschen Autoindustrie |
-
----
+| TPISR | TPISR erfüllt damit eine ähnliche Rolle für US-Firmen wie TISAX in der deutschen Autoindustrie |
 
 ## KRITIS 
 
-Organisationen und Einrichtungen mit wichtiger Bedeutung für das staatliche Gemeinwesen, bei deren Ausfall oder Beeinträchtigung nachhaltig wirkende Versorgungsengpässe, erhebliche Störungen der öffentlichen Sicherheit oder andere dramatische Folgen eintreten würden
+Organisationen und Einrichtungen mit wichtiger Bedeutung für das staatliche Gemeinwesen, bei deren Ausfall oder Beeinträchtigung nachhaltig wirkende Versorgungsengpässe, erhebliche Störungen der öffentlichen Sicherheit oder andere dramatische Folgen eintreten würden.
 
 ![kritis](img/KRITIS_Sektordiagramm.png)
 
@@ -22,9 +20,7 @@ Betroffene Unternehmen müssen:
 - Kontakt mit Behörden führen
 - IT Vorfälle melden
 - State of the Art implementieren
-- ISO27001 Nachweis alle 2 Jahre
-
----
+- ISO 27001 Nachweis alle 2 Jahre erbringen
 
 ## ISO 27001 Inhalte
 
@@ -51,15 +47,14 @@ flowchart LR
     id1[1: Vorbereitung & \n Dokumentation]--> id2[Stage 1 \n Audit]--> id3[ISMS \n Implementierung]--> id4[Stage 2 \n Audit]--> id5[ISMS Wartung & \n Verbesserung] -->id6[Kontinuierliche \n Audits]
 ```
 
----
-
 ## Kontinuierlicher Verbesserungsprozess
 
 ![pdca cycle](img/PDCA_Cycle.svg.png)
 
-Plan, Do, Check, Act
-
----
+1. Plan (z.B. Einrichten eines ISMS)
+2. Do (z. B. Implementieren und Verwalten von Ressourcen)
+3. Check (Laufende Überwachung des ISMS und Erfolgskontrolle)
+4. Act (Verbesserungen fließen ein)
 
 ## BSI Standards
 
@@ -70,13 +65,11 @@ Plan, Do, Check, Act
 | BSI-Standard 200-3 | Risiko Analyse | 
 | BSI-Standard 200-4 | Notfallmanagement |
 
----
-
 ## NIST 800-53 Security and Privacy Controls for Information Systems and Organizations, Rev. 5
 
 - Gültigkeit bezieht sich auf alle Organisationen, nicht nur staatliche
-- Anwendung in jeglicher Organisation oder System, das entweder Daten verarbeitet, speichert oder überträgt.
-- soll Organisationen helfen, die Sicherheits- und Datenschutzkontrollen zu identifizieren, die zum Risikomanagement und zur Erfüllung der Sicherheits- und Datenschutzanforderungen Anforderungen
+- Anwendung in jeglicher Organisation oder System, das entweder Daten verarbeitet, speichert oder überträgt
+- soll Organisationen helfen, die Sicherheits- und Datenschutzkontrollen zu identifizieren, die zum Risikomanagement und zur Erfüllung der Sicherheits- und Datenschutzanforderungen beitragen
 
 ## NIST Cybersecurity Framework
 
@@ -88,8 +81,6 @@ Plan, Do, Check, Act
 - Respond: Entwicklung und Implementierung von Reaktionen auf entdeckte Risiken
 - Recover: Entwicklung und Implementierung von Aktivitäten um mögliche Services wiederherzustellen
 
----
-
 ## Capability Maturity Model Integrated (CMMI)
 
 ist ein Schulungs- und Beurteilungsprogramm für die Verbesserung von Prozessen
@@ -98,9 +89,8 @@ ist ein Schulungs- und Beurteilungsprogramm für die Verbesserung von Prozessen
 - Für viele Regierungsaufträge benötigt
 - CMMI definiert folgende Reife Level: Initial, Managed, Defined, Quantitatively Managed, and optimizing
 
----
-
 ## COBIT 2019
+
 ![cobit](https://www.isaca.org/-/media/images/isacadp/project/isaca/tiles/search/cobit2019.png?mw=250&hash=4B086DB6337B1E6BB927333D705BBD31)
 
 Werkzeug für das Management und die Steuerung der Unternehmens-IT.
@@ -117,15 +107,11 @@ COBIT dient als "Werkzeugkasten", um ein optimales Ausrichtung zwischen Business
 6. Vergleich Ist/Soll-Zustand
 7. Umsetzung des Plans
 
----
-
 ## VDA Information Security Assessment (VDA-ISA)
 
 - Selbsteinschätzung um den Stand der Informationssicherheit im Unternehmen festzustellen
 - Auditierungen durch interne Abteilungen durchgeführt
 - Selbstprüfung von ISO27001
-
----
 
 ## Human Resource Security (ISO 27001, 7.3, A.7) :hammer:
 
@@ -134,22 +120,24 @@ COBIT dient als "Werkzeugkasten", um ein optimales Ausrichtung zwischen Business
 Personen die im Unternehmen arbeiten sollten bewusstsein für ... haben:
 <ol type="a">
   <li>die InfoSec Richtlinien</li>
-  <li>ihren Beitrag zu IT Sec Systemen und den vorteilen durch erhöhte Sicherheit</li>
+  <li>ihren Beitrag zu IT Sec Systemen und den Vorteilen durch erhöhte Sicherheit</li>
   <li>Auswirkungen durch nicht konformes Vorgehen</li>
 </ol>
 
----
-
 ## Human Resource Security (BSI200, 6) :hammer:
+
 - Mitarbeiter müssen geschult/trainiert sein
-- Vermittlung relevanter Aspekte
+- Vermittlung relevanter InfoSec Aspekte
 - Mitarbeiter müssen zur Einhaltung aller im Unternehmen relevanten Gesetze, Vorschriften und Regeleungen verpflichtet werden
 - Müssen mit Informationssicherheit vertraut und motiviert sein
 - Müssen wissen, welche Vorfälle zu melden sind
 
----
-
 ## Teleworking
+
+Ist eine Arbeitsorganisation, bei der Arbeitnehmer ihre Arbeitsaufgaben ganz oder teilweise außerhalb der Geschäftsräume oder Betriebsstätten des Arbeitgebers ausüben.
+
+Formen und dadurch entstehende Risiken:
+
 - Off-Premises Benutzung
 - Reisen
   - Parkplatz
@@ -158,9 +146,7 @@ Personen die im Unternehmen arbeiten sollten bewusstsein für ... haben:
 - Home Office
   - unauthorisierter Zugang
   - Sicht von Außen
-  - Unbekannte Sicherheitssituation im privaten Wifi
-
----
+  - Unbekannte Sicherheitssituation im privaten Wifi (Verwendung von harmful Devices)
 
 ## Mitarbeiter Bewusstsein
 
@@ -179,55 +165,61 @@ Warum?
 | Software aktuell halten | Daten wiederherstellen|
 | Physikalischen Zugriff einschränken | Accounts entfernen |
 
-Schwierigkeiten: 
+Schwierigkeiten:
+
 - Fremde Sprachen
 - Kulturelles Besonderheiten
 
 ## Simulationen
 
 ### Red Team Event
-Red Team ist eine Gruppe von White-Heads die versucht, eine die Infrastruktur eines Unternehmens anzugreifen (Blue Team). 
 
-Vorteile: Gibt eine gute Übersicht über die Robustheit der Sicherheitsmaßnahmen unter realistischen Bedingungen.
+Red Team ist eine Gruppe von White-Heads die versucht, die Infrastruktur eines Unternehmens anzugreifen (Blue Team). 
+
+Vorteile: Gibt eine gute Übersicht über die Robustheit der Sicherheitsmaßnahmen unter realistischen Bedingungen
 
 ![infosec-wheel](img/infosec.png)
 
 ## ISO 27001, A.9
 
 ### 9.1 Access Control
+
 Ziel: Zugriff auf Informationen und verarbeitende Einrichtungen limitieren
 
 ### 9.2 User Access Management
-Ziel: Sicherstellen, dass nur authorisierte benutzer Zugriff auf Systeme und Services haben.
+
+Ziel: Sicherstellen, dass nur autorisierte Benutzer Zugriff auf Systeme und Services haben
 
 ### 9.3 User Responsibilities
+
 Ziel: Benutzer dafür verantwortlich machen, dass sie ihre Zugangsdaten sicher verwahren
 
 ### 9.4 System and Application Access Control
 
-Ziel: Unauthorisierten Zugriff auf Systeme und Anwendungen unterbinden
+Ziel: Unautorisierten Zugriff auf Systeme und Anwendungen unterbinden
 
-## Zutritt, Zugang, Zugriff
+## Zutritt, Zugang, Zugriff (Access)
 
 - Physical Access (Zutritt) :arrow_right: Physische Kontrolle
 - Logical Access (Zugang) :arrow_right: Authentisierung
-- Content Access (Zugriff) :arrow_right: Authorisierung
+- Content Access (Zugriff) :arrow_right: Autorisierung
 
 ![zutritt-zugang-zugriff](img/3z.png)
 
-## Triple A
+## Triple A (AAA)
+
 ![triple-a](img/3-a.png)
 
 ## Privileged User Management
 
 - Separierter Admin Account
 - Regelmäßige Kontrolle, ob Rechte noch benötigt werden
-- Prozess beim Verlassen des Unternehmens wichtig
+- Prozess beim Verlassen des Unternehmens muss definiert und eingehalten werden
 
 ## Identity Access Management
 
 - Password Policy benötigt
-- Mindest Anforderungen
+- Mindestanforderungen
 
 | Account | Länge | Ablaufen |
 | --- | --- | --- | 
@@ -244,6 +236,9 @@ Problem:
 - Lange Zeitabstände
 - Wenig Änderungen in geänderten Passwörtern
 
-## Trusted Platform Module (TMP)
+## Trusted Platform Module (TPM)
 
 Internationaler Standard für sichere Cryptoprozessoren zur Sicherung von Hardwareabläufen durch integrierte Crypto Keys
+
+- Schutz gegen softwareseitige Manipulation durch unbefugte Dritte
+- In China durch Regierungsbehörden verboten
