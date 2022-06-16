@@ -36,8 +36,8 @@ Grundsätze Datenschutz:
 ## GDPR Territorialer Scope
 
 - Data Subject: identifizierte oder identifizierbare natürliche Person
-- Data Controller: natürliche  oder legale Person mit dem Ziel Persönliche Daten zu verarbeiten
-- Data Processor: natürliche oder legale Person, die Daten für den Processor erhebt
+- Data Controller: natürliche oder legale Person mit dem Ziel Persönliche Daten zu Erheben
+- Data Processor: natürliche oder legale Person, die Daten für den Processor verarbeitet
 
 ## Art. 4 DSGVO Definitionen
 
