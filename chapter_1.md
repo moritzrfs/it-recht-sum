@@ -180,9 +180,9 @@ Grundsatz :arrow_right: Bei Bedarf sollten die High-Level Ziele zu spezifischere
 
 Wichtigste IT Schutzziele:
 
-- Vertraulichkeit: Daten sollten vertaulich verarbeitet werden und nur von autorisierten Nutzern eingesehen werden können. :arrow_right: Kompromitierungsbeispiel: Laptop geklaut, Passwort Diebstahl
-- Integrität: Daten sollen korrekt und vollständig sein. Änderungen müssen nachvollzogen werden können. :arrow_right:  Kompromitierungsbeispiel: Ransomware → Die Daten werden verändert
-- Verfügbarkeit: Informationstechnische Systeme müssen durchgängige Verfügbarkeit der Daten gewährleisten. Festlegung des Rahmens durch Unternehmen in Service-Level-Agreement :arrow_right: DDoS Angriff
+- Vertraulichkeit: Daten vor unbefugtem Zugriff geschützt :arrow_right: Kompromitierungsbeispiel: Laptop geklaut, Passwort Diebstahl
+- Integrität: Schutz vor unbemerkter und unberechtigter Manipulation der Daten, Daten sind korrekt :arrow_right:  Kompromitierungsbeispiel: Ransomware → Die Daten werden verändert
+- Verfügbarkeit: Daten sind in vereinbartem Rahmen zugänglich, zeitlich und örtlich :arrow_right: DDoS Angriff
 
 ## Informationssicherheit Schutzziele
 
