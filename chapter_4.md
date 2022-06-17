@@ -303,11 +303,14 @@ Anforderungen PIPL
 Sensible Daten (GDPR spezielle Kategorien)
 
 - Religion, Health, Finanzen, Biometrische Daten
+- Risiko Analyse muss im Vorhinein durchgeführt werden
 
 Besser in PIPL: 
 
 - Schulungen/Trainings für Umgang mit p. Daten für Mitarbeiter gefordert
 - Datenweitergabe an Ausland ohne Zustimmung der Regierung untersagt
+
+- Ohne Genehmigung dürfen nur Daten die nicht Artikel 9 sind nach China übertragen werden
 
 ## GDPR vs. INAI (Mexico)
 

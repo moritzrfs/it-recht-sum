@@ -55,6 +55,10 @@ Beispiele:
 - Unbefugter Zugriff auf sensitive Unternehmensdaten
 - Diebstahl oder Verlust von IT Equipment wie Laptop, Storage Device, ... auf dem potentiell sensitive Daten gespeichert sind
 
+## CERT
+
+Computer Emergency and Rescue Team: Eingreiftruppe
+
 ## NIST
 
 1. Preparation

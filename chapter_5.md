@@ -139,7 +139,7 @@ Brief-, Post-, und Fernmeldegeheimnis sind unverletzlich
 
 ### §1 Anwendungsbereich
 
-Gilt für Informations- und Kommunikationsdienste
+Gilt für Informations- und Kommunikationsdienste (Diensteanbieter) :arrow_right: Data On Rest
 
 Grundsätze:
 
@@ -206,6 +206,10 @@ Wer anderem Schaden zufügt und gegen gute Sitten verstößt, muss Geschädigtem
 
 Störer ist, wer ohne Täter zu sein, willentlich und adäquat zu Straftat beträgt.
 Beispiel: öffentl. WLAN
+
+- Problem: Schadensersatz nach BGB bei Rechtsverletzung :arrow_right: Zeitpunkt und IP-Adresse immer Teil der Anschuldigung.
+- Wenn Ermittlung des Schuldigen nicht möglich, dann Anwalt einschalten
+- Mögliche Maßnahmen: Voucher System mit Registrierung oder WPA2/WPA3 Verschlüsselung
 
 ## Strafgesetzbuch (StGB) :hammer:
 
@@ -301,3 +305,7 @@ GNU Affero General Public License: Software die über Netzwerk ausgeführt wird
 | Anpassbar | Kein professioneller Support |
 | Kein "hidden code" | SLAs fehlen |
 | | Kein Product Lifecycle |
+
+Verwendung von OpenSource je nach Anwendungsfall entscheiden. Bei kritischen Geschäftsprozessen lohnt es sich meistens nicht. Wenn z.B. Notepad++, dann unkritisch und praktisch.
+
+Wenn Teil einer Wertschöpfungskette, kann Schaden durch Fehlende Funktion oder Fehlfunktion höher sein, als von vornherein ein lizenziertes Produkt zu verwenden.

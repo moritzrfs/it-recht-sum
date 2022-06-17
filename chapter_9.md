@@ -65,3 +65,6 @@ Unterschied herkömmlicher Konzepte :arrow_right: Dienste, Nutzer, Anwendungen w
   - Analysen zu Gefahrenerkennung verwenden und Verteidigung verbessern zu können
 
 [Gute Quelle](https://www.security-insider.de/was-ist-ein-zero-trust-modell-a-752389/)
+
+
+"Das Sichere Unternehmensnetzwerk" gibt es nicht mehr. 

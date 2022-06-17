@@ -60,6 +60,7 @@ Cybercrime ist die dynamischste Form von Kriminalität, weil sie sich ständig v
 
 - Spezialisierung auf Bereitstellung sicherer Server Infrastrukturen  (IP, Domain, Proxy)
 - Zur Verfügugungstellung an kriminelle Kunden gegen Bezahlung
+- Diensteanbieter, die zusichern, nicht mit Behörden zusammenzuarbeiten
 
 ### Säule 3 Marketplaces, Shops
 
