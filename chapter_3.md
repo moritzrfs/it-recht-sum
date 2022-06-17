@@ -24,7 +24,7 @@ Typische Einstufungen
 |Non-Business | Daten ohne Einfluss auf den Unternehmenszweck, Prozesse, Arbeiten, ... |
 | Public | Business Informationen die für die Veröffentlichung vorgesehen und klassifiziert sind |
 | General | Nicht für Öffentlichkeit gedacht, kann unter Mitarbeitern/ Partnern/ Business Gästen geteilt werden. Standard Einstufung |
-|  Confindential | Geheime, strategisch wichtige Informationen, die bei Veröffentlichung Schaden anrichten können. Ebenfalls persönliche Informationen, egal ob bestimmbar |
+| Confidential | Geheime, strategisch wichtige Informationen, die bei Veröffentlichung Schaden anrichten können. Ebenfalls persönliche Informationen, egal ob bestimmbar |
 | Highly Confidential | Sehr sensible Daten und Daten mit hohem Risiko. Höchste Sicherung notwendig. Enthält sensible persönliche identifizierbare Daten |
 
 ## ISO 27001, 6.1, 8.2, 8.3 :hammer:
@@ -53,9 +53,9 @@ Das Unternehmen soll einen Plan zum Umgang mit Risiken einführen
 
 ## Umgang mit Risiken (ISO 31000/ ISO 27005) :hammer:
 
-- Risiko Modifizierung
+- Risiko Modifizierung (Maßnahmen zur Minimierung ergreifen)
 - Risiko akzeptieren
-- Risiko Vermeidung
+- Risiko Vermeidung (Nur durch Abschaltung)
 - Risiko Teilung 
 
 ![risk treatment](img/risk-treatment.png)
