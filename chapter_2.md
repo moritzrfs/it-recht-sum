@@ -81,6 +81,9 @@ flowchart LR
 - Respond: Entwicklung und Implementierung von Reaktionen auf entdeckte Risiken
 - Recover: Entwicklung und Implementierung von Aktivitäten um mögliche Services wiederherzustellen
 
+**Nachteil**
+Modell basiert jedoch nur auf Angriffen die man kennt :heavy_exclamation_mark:
+
 ## Capability Maturity Model Integrated (CMMI)
 
 ist ein Schulungs- und Beurteilungsprogramm für die Verbesserung von Prozessen
