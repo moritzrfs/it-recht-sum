@@ -69,7 +69,7 @@ Ausnahmen wie gehabt (Ausübung Rechter und Pflichten, Schutz lebenswichtiger In
 - Processor muss Vertrag oder legale Grundlage haben in dem beschrieben wird, was, wie lang, warum und welche Daten
 - Processor muss Controller informieren, wenn andere "Sub" Processoren zugezogen werden
 
-## GDPR Art. 5
+## GDPR Art. 5 Grundsätze bei der Verarbeitung personenbezogener Daten
 
 Erhobene Daten sollten:
 1. gesetzeskonform, zweckgemäß und transparent verarbeitet werden
@@ -81,7 +81,7 @@ Erhobene Daten sollten:
 
 Controller sind für die Einhaltung der Compliance zuständig
 
-## GDPR Art. 6 Legale Erhebung 
+## GDPR Art. 6 Rechtmäßigkeit der Erhebung
 
 Die Verarbeitung ist nur rechtsmäßig, wenn mindestens eine der nachstehenden Bedingungen erfüllt ist:
 
